@@ -1,3000 +1,3000 @@
-the ,462
-to ,406
-ect ,651
-and ,191
-for ,179
-of ,131
-a ,4042
-you ,145
-hou ,299
-in ,720
-on ,722
-is ,344
-this ,80
-enron ,80
-i ,3315
-be ,205
-that ,69
-will ,90
-have ,61
-with ,58
-your ,42
-at ,460
-we ,123
-s ,2920
-are ,80
-it ,328
-by ,30
-com ,66
-as ,346
-from ,31
-gas ,33
-or ,510
-not ,54
-me ,364
-deal ,102
-if ,125
-meter ,19
-hpl ,11
-please ,30
-re ,584
-e ,6307
-any ,53
-our ,76
-corp ,49
-can ,48
-d ,1642
-all ,83
-has ,36
-was ,19
-know ,20
-need ,33
-an ,728
-forwarded ,10
-new ,52
-t ,4455
-may ,16
-up ,69
-j ,170
-mmbtu ,22
-should ,27
-do ,102
-am ,136
-get ,36
-out ,57
-see ,9
-no ,191
-there ,20
-price ,10
-daren ,11
-but ,26
-been ,9
-company ,10
-l ,2371
-these ,29
-let ,17
-so ,162
-would ,17
-m ,1278
-into ,16
-xls ,1
-farmer ,9
-attached ,7
-us ,165
-information ,17
-they ,5
-message ,3
-day ,27
-time ,21
-my ,13
-one ,68
-what ,9
-only ,13
-http ,5
-th ,927
-volume ,27
-mail ,10
-contract ,38
-which ,12
-month ,11
-more ,10
-robert ,15
-sitara ,48
-about ,4
-texas ,10
-nom ,43
-energy ,15
-pec ,41
-questions ,8
-www ,5
-deals ,37
-volumes ,15
-pm ,28
-ena ,27
-now ,35
-their ,7
-file ,6
-some ,31
-email ,4
-just ,9
-also ,21
-call ,19
-change ,106
-other ,20
-here ,43
-like ,12
-b ,806
-flow ,15
-net ,16
-following ,14
-p ,1208
-production ,6
-when ,15
-over ,16
-back ,30
-want ,14
-original ,4
-them ,8
-below ,4
-o ,3619
-ticket ,46
-c ,2491
-he ,644
-could ,5
-make ,19
-inc ,30
-report ,6
-march ,6
-contact ,1
-were ,13
-days ,3
-list ,7
-nomination ,17
-system ,6
-who ,9
-april ,14
-number ,9
-sale ,22
-don ,38
-its ,9
-first ,6
-thanks ,24
-business ,11
-help ,6
-per ,50
-through ,4
-july ,2
-forward ,14
-font ,0
-free ,3
-daily ,4
-use ,54
-order ,6
-today ,4
-r ,3012
-had ,9
-fw ,2
-set ,20
-plant ,2
-statements ,0
-go ,25
-gary ,9
-oil ,4
-line ,35
-sales ,1
-w ,745
-effective ,4
-well ,7
-tenaska ,0
-take ,20
-june ,0
-x ,127
-within ,2
-nbsp ,0
-she ,17
-how ,15
-north ,4
-america ,4
-being ,3
-under ,8
-next ,1
-week ,6
-than ,37
-january ,0
-last ,5
-two ,8
-service ,18
-purchase ,9
-name ,30
-less ,5
-height ,0
-off ,10
-agreement ,1
-k ,449
-work ,21
-tap ,1
-group ,7
-year ,0
-based ,2
-transport ,3
-after ,21
-think ,12
-made ,8
-each ,5
-available ,4
-changes ,47
-due ,24
-f ,818
-h ,2026
-services ,10
-smith ,4
-send ,0
-management ,5
-stock ,3
-sent ,30
-ll ,388
-co ,421
-office ,6
-needs ,1
-cotten ,2
-did ,9
-actuals ,0
-u ,1660
-money ,2
-before ,5
-looking ,5
-then ,9
-pills ,71
-online ,11
-request ,5
-look ,8
-desk ,4
-ami ,9
-his ,88
-same ,14
-george ,2
-chokshi ,0
-point ,1
-delivery ,1
-friday ,1
-does ,13
-size ,1
-august ,0
-product ,10
-pat ,33
-width ,0
-iv ,78
-noms ,4
-address ,2
-above ,7
-sure ,14
-give ,9
-october ,1
-future ,0
-find ,6
-market ,16
-n ,3364
-mary ,0
-vance ,4
-melissa ,3
-said ,2
-internet ,0
-still ,12
-account ,3
-those ,1
-down ,10
-link ,3
-hsc ,2
-rate ,5
-people ,2
-pipeline ,18
-best ,5
-actual ,2
-very ,16
-end ,20
-home ,3
-houston ,1
-tu ,56
-high ,9
-her ,105
-team ,3
-products ,2
-many ,2
-currently ,2
-spot ,0
-receive ,7
-good ,4
-such ,4
-going ,1
-process ,7
-feb ,3
-monday ,0
-info ,20
-david ,0
-lloyd ,7
-again ,2
-both ,8
-click ,2
-subject ,27
-jackie ,4
-december ,0
-total ,5
-na ,236
-lisa ,1
-ve ,296
-september ,0
-hours ,1
-until ,3
-resources ,6
-because ,18
-aol ,0
-february ,2
-where ,10
-g ,957
-investment ,0
-issue ,9
-duke ,0
-since ,2
-pay ,4
-show ,6
-way ,7
-global ,31
-computron ,0
-further ,1
-most ,1
-place ,20
-offer ,1
-natural ,1
-activity ,0
-eastrans ,5
-graves ,3
-right ,1
-prices ,1
-date ,26
-john ,4
-utilities ,0
-november ,0
-clynes ,1
-jan ,0
-securities ,4
-meeting ,0
-susan ,2
-hplc ,7
-julie ,14
-able ,20
-received ,2
-align ,0
-term ,11
-id ,101
-revised ,0
-thursday ,1
-pg ,6
-fee ,6
-hplno ,0
-trading ,5
-additional ,9
-site ,3
-txu ,0
-data ,14
-wellhead ,2
-reply ,1
-taylor ,3
-news ,1
-unify ,43
-michael ,1
-provide ,9
-note ,8
-much ,5
-access ,0
-lannou ,0
-every ,10
-between ,1
-keep ,3
-tuesday ,4
-review ,2
-great ,1
-tom ,14
-put ,9
-done ,4
-long ,5
-save ,0
-section ,0
-must ,4
-v ,556
-part ,67
-nd ,279
-million ,1
-check ,8
-trade ,0
-bob ,0
-created ,10
-steve ,16
-prior ,5
-copy ,2
-continue ,2
-numbers ,5
-via ,27
-world ,5
-demand ,0
-hanks ,24
-contracts ,14
-phone ,3
-transaction ,2
-customer ,1
-possible ,1
-pefs ,4
-meyers ,15
-months ,0
-special ,5
-without ,5
-used ,11
-regarding ,6
-software ,2
-howard ,1
-support ,1
-buy ,18
-young ,0
-meters ,2
-thru ,2
-believe ,1
-gcs ,6
-cec ,6
-entered ,1
-control ,2
-dec ,11
-face ,0
-create ,12
-weissman ,0
-st ,309
-color ,0
-come ,5
-supply ,5
-brian ,1
-hplo ,0
-own ,15
-correct ,13
-customers ,1
-web ,2
-allocation ,0
-soon ,2
-using ,3
-development ,3
-mark ,18
-low ,53
-power ,0
-problem ,12
-once ,14
-however ,4
-tickets ,19
-border ,0
-performance ,1
-manager ,7
-rates ,0
-center ,0
-companies ,0
-risk ,3
-details ,1
-needed ,6
-international ,0
-field ,2
-even ,19
-someone ,12
-doc ,3
-fuel ,5
-lee ,1
-paid ,0
-while ,4
-start ,6
-index ,0
-include ,2
-nominations ,8
-act ,71
-pricing ,6
-scheduled ,8
-gathering ,1
-type ,13
-href ,0
-during ,1
-aimee ,0
-anything ,6
-feel ,2
-fuels ,4
-getting ,4
-advice ,0
-why ,3
-increase ,1
-path ,28
-sell ,10
-works ,15
-issues ,2
-three ,5
-enronxgate ,0
-camp ,9
-either ,3
-form ,22
-security ,5
-interest ,0
-financial ,7
-family ,4
-xp ,20
-plan ,5
-current ,7
-top ,2
-another ,1
-src ,0
-spreadsheet ,2
-allen ,0
-wednesday ,1
-read ,6
-him ,1
-working ,2
-wynne ,0
-add ,26
-deliveries ,7
-buyback ,15
-allocated ,1
-firm ,15
-james ,0
-marketing ,8
-tx ,0
-results ,0
-got ,6
-stocks ,0
-calpine ,2
-might ,0
-operations ,0
-position ,4
-logistics ,7
-fax ,1
-cost ,3
-party ,44
-zero ,5
-pops ,0
-old ,14
-pt ,27
-scheduling ,3
-flowed ,3
-dollars ,1
-update ,9
-gco ,0
-katy ,0
-including ,1
-follow ,23
-yahoo ,0
-already ,1
-suite ,0
-error ,1
-past ,2
-page ,0
-stop ,2
-changed ,3
-book ,1
-program ,1
-few ,1
-better ,0
-operating ,2
-equistar ,19
-move ,3
-cotton ,4
-aep ,0
-y ,950
-state ,2
-ees ,3
-rita ,0
-provided ,4
-employees ,1
-period ,6
-morning ,3
-cd ,3
-hotmail ,1
-entex ,0
-swing ,5
-real ,2
-exchange ,1
-tomorrow ,0
-lst ,1
-counterparty ,42
-parker ,0
-person ,9
-follows ,6
-valid ,22
-visit ,4
-little ,1
-professional ,0
-quality ,0
-confirm ,11
-something ,4
-megan ,0
-brenda ,2
-around ,0
-windows ,1
-im ,92
-storage ,3
-accounting ,0
-called ,0
-ranch ,1
-tax ,0
-problems ,6
-case ,4
-teco ,0
-fact ,0
-always ,4
-too ,6
-unsubscribe ,0
-amount ,4
-coastal ,1
-never ,1
-rodriguez ,1
-love ,3
-acton ,6
-shut ,0
-pipe ,26
-project ,0
-hope ,4
-limited ,1
-invoice ,5
-credit ,2
-full ,5
-survey ,0
-ray ,9
-carlos ,0
-anyone ,2
-wanted ,1
-yet ,6
-ic ,243
-scott ,26
-years ,0
-charlie ,0
-soft ,3
-notice ,1
-advise ,0
-addition ,16
-donald ,1
-lsk ,0
-wish ,4
-katherine ,3
-website ,0
-hplnl ,0
-schumack ,0
-prescription ,1
-cover ,4
-shares ,0
-cash ,3
-imbalance ,6
-united ,0
-handle ,0
-big ,1
-everyone ,2
-style ,0
-clear ,5
-producer ,2
-weekend ,2
-city ,6
-requested ,2
-stone ,1
-left ,2
-payment ,0
-mobil ,0
-shows ,1
-small ,0
-confirmed ,9
-technology ,3
-meet ,0
-extend ,3
-life ,5
-intended ,0
-sherlyn ,0
-schedule ,17
-else ,1
-letter ,2
-box ,1
-bill ,3
-richard ,5
-lamphier ,0
-complete ,3
-ever ,39
-release ,18
-newsletter ,0
-anita ,3
-clem ,0
-having ,4
-herod ,2
-beginning ,1
-papayoti ,0
-try ,9
-mike ,2
-enter ,11
-estimates ,0
-location ,1
-cut ,8
-question ,8
-things ,1
-personal ,1
-feedback ,3
-cialis ,7
-found ,0
-area ,0
-dow ,13
-terms ,0
-central ,0
-necessary ,6
-man ,34
-run ,6
-reason ,7
-third ,1
-midcon ,0
-charge ,2
-president ,1
-de ,321
-listed ,3
-meds ,4
-thomas ,11
-thought ,2
-capital ,0
-added ,1
-ask ,6
-weeks ,1
-investing ,0
-commercial ,1
-star ,26
-several ,1
-easy ,1
-view ,3
-cannot ,1
-extended ,1
-lauri ,0
-beaumont ,0
-union ,0
-times ,2
-open ,2
-cause ,30
-monthly ,1
-action ,3
-offers ,0
-industry ,0
-states ,0
-side ,3
-mailto ,0
-probably ,0
-neal ,0
-second ,1
-stephanie ,11
-download ,0
-flash ,1
-agree ,3
-mcf ,1
-transfer ,0
-doing ,0
-important ,0
-basis ,0
-different ,9
-final ,1
-koch ,0
-exxon ,0
-remove ,2
-microsoft ,0
-interested ,0
-application ,3
-sept ,0
-mg ,23
-write ,0
-lp ,15
-east ,15
-requirements ,0
-code ,0
-value ,1
-thank ,26
-together ,4
-exploration ,4
-mid ,1
-dfarmer ,1
-everything ,2
-receipt ,3
-thu ,1
-afternoon ,1
-late ,11
-enserch ,0
-coming ,1
-bank ,0
-response ,4
-tell ,2
-shipping ,1
-night ,0
-events ,2
-cynthia ,0
-lsp ,1
-close ,1
-legal ,8
-country ,2
-direct ,5
-expected ,4
-ces ,67
-corporation ,13
-options ,1
-really ,1
-voip ,0
-nominated ,10
-etc ,5
-latest ,2
-potential ,0
-priced ,2
-edward ,2
-valero ,7
-material ,3
-stack ,3
-victor ,0
-redeliveries ,5
-loss ,3
-remember ,4
-baumbach ,0
-option ,1
-private ,3
-longer ,1
-aware ,3
-included ,1
-drugs ,1
-public ,5
-reinhardt ,1
-version ,1
-hesse ,1
-discuss ,2
-related ,2
-asked ,0
-say ,3
-viagra ,14
-revision ,1
-bgcolor ,0
-kind ,0
-pro ,79
-completed ,1
-health ,9
-ready ,3
-plans ,0
-registered ,0
-regards ,2
-carthage ,3
-zone ,0
-fill ,0
-away ,1
-computer ,1
-systems ,3
-industrial ,1
-mentioned ,1
-told ,0
-therefore ,1
-growth ,1
-sold ,0
-track ,1
-reports ,6
-south ,19
-rd ,93
-jim ,1
-costs ,1
-image ,0
-expect ,4
-return ,1
-physical ,1
-el ,232
-browser ,2
-donna ,14
-stacey ,1
-begin ,2
-china ,0
-duty ,0
-approximately ,0
-showing ,0
-unit ,7
-jones ,0
-hard ,6
-verify ,0
-updated ,2
-eol ,5
-cs ,14
-orders ,1
-talk ,4
-trying ,0
-base ,6
-given ,1
-server ,3
-source ,8
-pathed ,2
-strong ,0
-bryan ,17
-directly ,1
-risks ,0
-whole ,3
-major ,2
-users ,1
-purchases ,0
-oo ,46
-karen ,0
-luong ,3
-level ,6
-required ,0
-delivered ,3
-portfolio ,0
-riley ,1
-ali ,43
-easttexas ,2
-poorman ,0
-bellamy ,0
-assistance ,1
-nothing ,0
-gif ,0
-thing ,25
-retail ,0
-didn ,2
-valley ,4
-department ,4
-cleburne ,0
-allow ,7
-gpgfin ,0
-answer ,0
-items ,4
-paste ,2
-avila ,0
-taken ,2
-mm ,56
-nguyen ,0
-ensure ,1
-reference ,2
-hall ,1
-later ,1
-lone ,1
-user ,6
-methanol ,0
-facility ,0
-network ,0
-spoke ,2
-though ,5
-tabs ,1
-taking ,1
-status ,1
-considered ,0
-purchased ,3
-says ,0
-yourself ,0
-paliourg ,5
-dy ,10
-jeff ,1
-businesses ,1
-fred ,1
-transportation ,0
-apache ,0
-morris ,1
-nov ,2
-ltd ,6
-brand ,1
-federal ,0
-statement ,1
-oasis ,1
-reflect ,5
-assets ,0
-lamadrid ,0
-general ,0
-bridge ,8
-ability ,15
-oct ,6
-play ,4
-enrononline ,9
-compliance ,2
-spam ,0
-availability ,0
-king ,22
-understanding ,3
-chance ,1
-quick ,5
-effort ,1
-points ,0
-reliantenergy ,0
-fixed ,0
-short ,0
-hill ,1
-cheryl ,1
-aepin ,0
-key ,2
-understand ,4
-valign ,0
-capacity ,3
-game ,1
-took ,1
-bring ,1
-guys ,1
-god ,1
-green ,3
-care ,2
-withers ,0
-property ,0
-hub ,0
-johnson ,0
-employee ,4
-wants ,3
-albrecht ,0
-meaning ,0
-expectations ,0
-mx ,1
-moved ,1
-cernosek ,0
-matter ,1
-devon ,0
-calls ,5
-worldwide ,1
-records ,0
-removed ,1
-lose ,2
-large ,2
-referenced ,2
-walker ,0
-iferc ,1
-enw ,0
-ponton ,0
-eileen ,0
-ship ,4
-upon ,1
-enerfin ,0
-jennifer ,0
-looks ,2
-staff ,3
-pc ,1
-target ,0
-waha ,0
-making ,3
-cp ,4
-impact ,13
-partner ,2
-immediately ,0
-shall ,0
-channel ,1
-takes ,7
-sat ,1
-others ,2
-hear ,1
-went ,3
-travel ,0
-listing ,0
-approved ,0
-processing ,0
-early ,0
-enough ,1
-sally ,1
-starting ,0
-distribution ,0
-tejas ,0
-transactions ,2
-stay ,0
-earl ,1
-superty ,2
-doesn ,2
-reserves ,2
-includes ,0
-choose ,0
-adobe ,0
-publisher ,0
-paso ,0
-cornhusker ,0
-training ,0
-markets ,2
-content ,1
-solution ,0
-shell ,0
-jpg ,0
-print ,0
-drive ,0
-pain ,3
-password ,12
-half ,1
-herrera ,0
-saturday ,0
-moopid ,0
-hotlist ,0
-balance ,6
-super ,7
-vacation ,0
-sex ,3
-happy ,0
-excess ,2
-existing ,0
-fund ,1
-stella ,0
-share ,1
-sign ,24
-wells ,1
-won ,0
-four ,4
-text ,0
-card ,1
-tisdale ,0
-fwd ,0
-appreciate ,0
-non ,13
-experience ,0
-savings ,0
-settlements ,3
-draft ,2
-couple ,0
-informed ,0
-biz ,3
-watch ,1
-plus ,3
-sun ,1
-expense ,0
-images ,0
-land ,6
-occur ,3
-flowing ,0
-mar ,34
-terry ,2
-darren ,2
-cheap ,0
-weight ,2
-dynegy ,0
-activities ,0
-become ,1
-mr ,0
-format ,17
-attention ,1
-entire ,3
-photoshop ,1
-williams ,1
-instructions ,0
-neon ,0
-janet ,0
-contains ,0
-ago ,3
-friends ,0
-against ,0
-boas ,0
-music ,0
-certain ,2
-liz ,15
-svcs ,0
-record ,3
-fast ,5
-dave ,11
-held ,0
-mind ,2
-ua ,34
-publication ,0
-differ ,9
-comments ,0
-fun ,6
-rest ,8
-instant ,0
-agent ,0
-communications ,1
-director ,2
-partners ,1
-investors ,0
-expedia ,0
-kevin ,0
-assist ,3
-safe ,4
-approval ,1
-allocate ,2
-black ,1
-none ,1
-intrastate ,0
-document ,1
-eric ,7
-hakemack ,0
-expired ,3
-lower ,1
-active ,4
-secure ,0
-cc ,47
-five ,1
-determine ,1
-press ,7
-colspan ,0
-missing ,1
-jill ,0
-discussion ,1
-relief ,2
-respect ,3
-specific ,2
-technologies ,0
-al ,511
-holmes ,0
-white ,0
-yesterday ,0
-medical ,0
-pinion ,2
-sorry ,4
-men ,77
-leave ,0
-pass ,14
-video ,0
-gomes ,0
-doctor ,1
-projects ,0
-limit ,1
-air ,8
-knle ,0
-pharmacy ,2
-confirmation ,1
-opportunity ,3
-involve ,0
-notify ,1
-gtc ,0
-class ,0
-ken ,11
-started ,0
-outage ,0
-confidential ,1
-room ,0
-blue ,0
-estimated ,0
-officer ,4
-reach ,0
-messages ,0
-database ,3
-words ,9
-prc ,0
-tracked ,0
-transition ,1
-light ,2
-national ,0
-hot ,3
-offering ,0
-gulf ,0
-provides ,0
-iit ,0
-demokritos ,0
-mckay ,0
-average ,2
-wide ,1
-heard ,0
-files ,0
-dan ,14
-billed ,0
-mccoy ,0
-rc ,47
-exactly ,0
-middle ,0
-select ,3
-bruce ,4
-louisiana ,0
-receiving ,1
-california ,0
-event ,5
-roll ,0
-mops ,1
-william ,7
-appear ,6
-perfect ,1
-html ,0
-features ,0
-join ,2
-greater ,0
-sunday ,0
-pick ,1
-featured ,0
-cdnow ,0
-prize ,0
-reveffo ,0
-olsen ,0
-expects ,0
-estimate ,1
-near ,6
-common ,6
-package ,1
-title ,0
-whether ,2
-bought ,0
-evergreen ,2
-difference ,0
-elizabeth ,11
-history ,1
-monitor ,0
-advised ,0
-result ,0
-sources ,6
-school ,1
-unaccounted ,0
-paragraph ,0
-turn ,2
-kimberly ,0
-increased ,0
-communication ,1
-members ,2
-concerns ,0
-uncertainties ,0
-associated ,3
-reduce ,0
-committed ,1
-wi ,199
-asap ,0
-goes ,0
-trader ,0
-waiting ,0
-canada ,1
-worth ,2
-representative ,0
-claim ,1
-ceo ,1
-london ,1
-discussions ,1
-php ,0
-brazos ,0
-trevino ,0
-calling ,0
-involved ,0
-la ,145
-gift ,0
-southern ,0
-groups ,0
-hour ,2
-tufco ,1
-previously ,4
-voice ,6
-normally ,2
-resolve ,0
-efforts ,0
-nor ,13
-recent ,1
-purchasing ,0
-county ,0
-ok ,18
-express ,1
-generic ,2
-according ,2
-respond ,1
-situation ,0
-hold ,5
-lot ,4
-interconnect ,2
-word ,18
-came ,0
-west ,13
-role ,2
-opportunities ,1
-corporate ,0
-remain ,6
-similar ,2
-readers ,0
-suggestions ,1
-subscribers ,0
-projections ,0
-lead ,1
-learn ,0
-resolved ,0
-agreed ,0
-sec ,11
-head ,6
-enjoy ,1
-img ,0
-rnd ,0
-responsible ,1
-outstanding ,0
-member ,6
-panenergy ,0
-american ,1
-cass ,3
-register ,0
-promotions ,0
-parties ,12
-winfree ,0
-selling ,0
-usage ,0
-appropriate ,2
-assignment ,20
-media ,1
-believes ,0
-require ,7
-submit ,0
-model ,1
-spinnaker ,0
-copano ,0
-facilities ,3
-opinion ,0
-factors ,0
-identified ,0
-beverly ,0
-ews ,3
-gdp ,0
-deliver ,13
-job ,0
-profile ,0
-across ,1
-neuweiler ,1
-suggest ,1
-girls ,0
-manage ,12
-usa ,4
-local ,0
-bad ,1
-greg ,4
-vs ,0
-fees ,0
-digital ,0
-cf ,2
-strangers ,0
-registration ,0
-delta ,0
-rolex ,0
-goliad ,0
-hesco ,0
-success ,3
-primary ,0
-quarter ,0
-course ,0
-chairman ,1
-petroleum ,1
-notes ,2
-medications ,3
-ei ,50
-instead ,0
-fine ,9
-lake ,0
-pre ,31
-force ,4
-seek ,0
-recipient ,0
-gain ,2
-placed ,4
-age ,30
-least ,1
-body ,2
-asking ,0
-discussed ,0
-hanson ,0
-emails ,1
-nominate ,11
-ext ,7
-known ,0
-ones ,0
-ed ,334
-assigned ,0
-htmlimg ,0
-means ,4
-present ,1
-various ,3
-invoices ,2
-gd ,3
-agency ,0
-along ,1
-located ,1
-reflects ,0
-solutions ,0
-ex ,74
-house ,3
-cds ,0
-br ,64
-owner ,1
-apr ,17
-sullivan ,0
-basin ,0
-linda ,11
-worked ,0
-car ,20
-seen ,0
-properties ,0
-booked ,0
-higher ,0
-store ,1
-est ,59
-revenue ,0
-wait ,0
-women ,2
-far ,11
-met ,28
-wholesale ,1
-range ,3
-kcs ,0
-recorded ,0
-brown ,0
-lots ,1
-match ,5
-input ,0
-grant ,0
-providing ,1
-huge ,0
-investor ,0
-kelly ,2
-apply ,0
-paths ,6
-handling ,0
-pipes ,6
-advantage ,1
-analysis ,1
-focus ,0
-draw ,0
-red ,26
-origination ,0
-connection ,0
-planning ,1
-wilson ,0
-golf ,0
-summary ,0
-item ,4
-bankruptcy ,0
-expenses ,0
-pgev ,0
-encina ,0
-beaty ,0
-memo ,2
-initial ,0
-thousand ,1
-mills ,12
-penis ,0
-friend ,0
-conversation ,0
-multiple ,0
-martin ,0
-names ,5
-bit ,8
-dth ,0
-talked ,0
-behalf ,1
-preliminary ,5
-button ,0
-herein ,0
-gisb ,12
-coupon ,0
-sa ,96
-oi ,22
-appears ,1
-door ,2
-texaco ,0
-csikos ,0
-arrangements ,0
-cpr ,0
-expires ,0
-popular ,1
-sending ,0
-research ,1
-conditions ,1
-gb ,0
-board ,2
-ca ,210
-applications ,1
-tried ,0
-paying ,0
-acquisition ,0
-reporting ,0
-normal ,3
-maintenance ,0
-resume ,0
-announced ,0
-attachment ,0
-buyer ,0
-objectives ,1
-prod ,14
-represent ,0
-sandi ,0
-hplnol ,0
-government ,0
-committee ,2
-running ,2
-tetco ,0
-discount ,3
-jo ,13
-holding ,2
-earlier ,1
-positions ,0
-happen ,2
-mailing ,1
-decided ,4
-recently ,1
-chris ,2
-xanax ,6
-valium ,5
-broadband ,0
-individual ,2
-station ,1
-td ,7
-financing ,0
-somehow ,0
-pena ,1
-critical ,0
-attend ,1
-kristen ,0
-inform ,17
-highly ,4
-hl ,10
-phillips ,0
-minutes ,1
-titles ,0
-affiliate ,0
-wife ,0
-lonestar ,0
-charlotte ,0
-quickly ,1
-paper ,2
-test ,4
-comes ,1
-mobile ,0
-internal ,2
-privacy ,1
-ideas ,0
-live ,13
-gotten ,0
-floor ,0
-benefit ,2
-percent ,0
-ms ,25
-dr ,24
-ebs ,0
-msn ,0
-gave ,1
-dallas ,0
-enterprise ,1
-rx ,1
-spring ,1
-ftar ,0
-ooking ,6
-hawkins ,0
-exclusive ,0
-selected ,0
-baxter ,2
-actually ,1
-single ,1
-shop ,3
-nominates ,0
-guarantee ,1
-minute ,2
-correctly ,1
-unique ,0
-bid ,0
-building ,0
-stated ,0
-accept ,0
-assumptions ,0
-centana ,0
-senior ,0
-pill ,72
-kinsey ,0
-sap ,2
-immediate ,1
-goals ,0
-category ,0
-mitchell ,0
-acceptance ,0
-termination ,1
-sweeney ,0
-facts ,0
-amazon ,0
-arrangement ,0
-josey ,0
-funds ,0
-among ,0
-accuracy ,0
-mean ,5
-rather ,0
-kim ,1
-egmnom ,0
-indicate ,2
-updates ,3
-extra ,2
-adjustment ,0
-accounts ,1
-lowest ,0
-gold ,1
-purposes ,0
-remaining ,1
-talking ,2
-entry ,1
-road ,3
-load ,0
-simply ,1
-europe ,0
-lindley ,0
-understood ,0
-logos ,0
-hi ,190
-speed ,0
-profit ,0
-notified ,0
-jackson ,6
-z ,86
-vols ,0
-serve ,6
-additionally ,0
-shipped ,0
-connor ,0
-fontfont ,0
-q ,74
-kept ,0
-dollar ,2
-jr ,6
-almost ,0
-fri ,1
-paul ,0
-documents ,1
-analyst ,0
-crude ,0
-cap ,10
-shopping ,0
-aug ,3
-clearance ,1
-schneider ,0
-ftworth ,2
-father ,0
-anticipated ,0
-resellers ,0
-congress ,0
-counterparties ,12
-epgt ,0
-buying ,0
-san ,11
-invest ,1
-cartwheel ,1
-brandywine ,0
-wrong ,1
-mtbe ,0
-split ,0
-submitted ,0
-hull ,6
-gra ,26
-children ,0
-leader ,1
-true ,4
-baseload ,0
-mb ,50
-letters ,1
-billion ,1
-rights ,0
-mtr ,12
-heidi ,1
-clean ,5
-historical ,0
-asset ,2
-foreign ,1
-gr ,57
-entity ,7
-developed ,0
-maybe ,0
-jeffrey ,0
-transmission ,1
-outside ,1
-lost ,1
-membership ,0
-invitation ,0
-ocean ,0
-legislation ,0
-hernandez ,11
-pep ,0
-payments ,0
-wallis ,0
-rev ,14
-kenneth ,3
-seaman ,0
-annual ,0
-guess ,1
-bammel ,0
-lines ,6
-guadalupe ,0
-zivley ,0
-exception ,0
-example ,1
-pathing ,10
-revisions ,0
-pipelines ,6
-equity ,2
-budget ,0
-wed ,4
-dealers ,0
-window ,3
-juno ,0
-claims ,0
-bottom ,0
-standard ,1
-alternative ,2
-merchant ,0
-braband ,0
-topica ,0
-telephone ,1
-reliant ,0
-speculative ,0
-yes ,4
-en ,492
-morgan ,0
-cable ,2
-edmondson ,0
-participate ,0
-usb ,0
-throughout ,0
-checked ,0
-myself ,0
-contents ,0
-fat ,1
-investments ,0
-six ,0
-build ,1
-giving ,0
-calendar ,0
-inherent ,0
-edition ,0
-darial ,0
-hr ,37
-trip ,3
-pull ,0
-moving ,0
-concern ,1
-proposed ,0
-rm ,83
-deer ,0
-enquiries ,0
-alt ,28
-tammy ,1
-front ,0
-reduction ,0
-evening ,3
-concerning ,0
-gets ,1
-effect ,6
-isn ,2
-haven ,0
-cowboy ,0
-sea ,1
-dvd ,0
-launch ,5
-minimum ,0
-changing ,8
-built ,0
-avoid ,0
-chief ,4
-stephen ,0
-chad ,3
-manual ,2
-finally ,0
-strategy ,0
-executive ,2
-thousands ,0
-conflict ,0
-resulting ,0
-policy ,4
-commission ,0
-stand ,9
-positive ,0
-quantity ,2
-programs ,0
-airmail ,0
-texoma ,0
-prepared ,0
-austin ,0
-matt ,1
-intent ,0
-uae ,0
-citibank ,0
-jaquet ,0
-hol ,15
-harris ,0
-min ,51
-hplr ,0
-advance ,1
-weather ,0
-terminated ,1
-whom ,0
-sheet ,10
-venturatos ,0
-cellpadding ,0
-hotel ,0
-leading ,0
-guaranteed ,0
-idea ,2
-announce ,0
-pleased ,0
-award ,0
-operational ,0
-prepare ,0
-schedulers ,1
-child ,1
-sum ,7
-quote ,0
-adjusted ,0
-warning ,10
-issued ,0
-ga ,94
-cross ,1
-detail ,2
-pertaining ,0
-tess ,0
-owe ,9
-crow ,2
-availabilities ,0
-griffin ,0
-christy ,0
-crosstex ,0
-eel ,5
-itoy ,0
-heart ,0
-licensed ,2
-overnight ,0
-cal ,42
-otherwise ,0
-luck ,0
-stretch ,0
-generation ,0
-broker ,0
-construed ,0
-except ,5
-traders ,0
-carry ,0
-column ,0
-approx ,2
-main ,7
-alert ,3
-charges ,1
-step ,14
-revenues ,0
-games ,0
-gottlob ,0
-looked ,0
-individuals ,2
-beck ,0
-stuff ,0
-welcome ,1
-port ,17
-glover ,0
-description ,1
-daniel ,0
-quantities ,3
-park ,0
-managing ,1
-town ,0
-seller ,1
-summer ,1
-tina ,16
-dates ,3
-eff ,9
-dudley ,0
-ferc ,1
-robin ,0
-charles ,0
-customerservice ,0
-zonedubai ,0
-emirates ,0
-aeor ,0
-clickathome ,0
-materia ,3
-island ,0
-vaughn ,0
-sexual ,2
-eiben ,0
-forms ,1
-delete ,0
-realize ,0
-tailgate ,0
-behind ,0
-villarreal ,0
-lon ,8
-benoit ,0
-simple ,0
-tech ,4
-ahead ,0
-double ,1
-ordering ,0
-se ,359
-miss ,4
-law ,1
-eb ,14
-post ,4
-outlook ,0
-equipment ,0
-leslie ,1
-reeves ,0
-org ,8
-tools ,0
-cold ,1
-adjustments ,0
-contained ,0
-saw ,0
-edit ,5
-deciding ,0
-finance ,0
-patti ,0
-listbot ,0
-river ,0
-kathryn ,16
-holiday ,0
-successful ,0
-unable ,0
-advisor ,0
-pool ,0
-bryce ,2
-outages ,0
-adjust ,0
-screen ,0
-otc ,0
-brent ,0
-helps ,0
-auto ,2
-foot ,0
-region ,0
-links ,0
-contain ,2
-knowledge ,0
-yvette ,6
-dial ,1
-pressure ,0
-detailed ,0
-indicated ,1
-charged ,0
-sites ,0
-makes ,0
-female ,0
-mcmills ,1
-cook ,1
-mazowita ,0
-meredith ,0
-allocations ,0
-meetings ,0
-particular ,1
-environment ,1
-drug ,2
-search ,1
-mailings ,0
-designed ,0
-rock ,1
-measurement ,0
-art ,89
-corrected ,0
-kids ,0
-benefits ,1
-tv ,1
-seems ,1
-husband ,0
-fix ,1
-grow ,1
-decision ,0
-wireless ,0
-mo ,87
-conference ,0
-interview ,0
-levels ,0
-copies ,0
-cindy ,0
-urgent ,0
-regular ,1
-payroll ,0
-shown ,0
-consumers ,0
-reliable ,0
-tr ,167
-indicating ,0
-coast ,1
-greif ,5
-severson ,5
-tri ,28
-vicodin ,4
-liquids ,0
-significant ,2
-intend ,0
-usd ,0
-pager ,0
-avails ,0
-spencer ,1
-ce ,235
-charset ,0
-verdana ,0
-fully ,4
-flynn ,0
-da ,163
-personnel ,0
-multi ,0
-closed ,0
-vice ,18
-administration ,0
-gmt ,0
-midstream ,0
-eye ,17
-speckels ,1
-studio ,0
-cilco ,0
-likely ,4
-managers ,0
-structure ,0
-sit ,60
-parent ,0
-preparation ,0
-mix ,0
-mmbtus ,0
-timing ,0
-happening ,0
-lottery ,0
-killing ,0
-acquire ,0
-mack ,0
-pcx ,0
-fares ,0
-internationa ,0
-notification ,3
-swift ,0
-identify ,0
-areas ,0
-separate ,1
-unless ,0
-producers ,0
-allows ,3
-pretty ,0
-waste ,0
-joanie ,0
-drop ,0
-taxes ,0
-premium ,0
-teams ,0
-choice ,1
-largest ,1
-addressed ,0
-dolphin ,0
-ngo ,0
-self ,1
-davis ,1
-htm ,0
-ad ,116
-graphics ,0
-hit ,0
-competitive ,2
-thus ,0
-incorrect ,1
-ti ,425
-acts ,18
-previous ,4
-edu ,25
-proven ,0
-electric ,1
-pictures ,0
-charlene ,0
-benedict ,0
-chevron ,0
-treatment ,0
-lesson ,0
-player ,0
-sds ,0
-wc ,0
-intraday ,0
-assurance ,0
-sdsnom ,0
-rebecca ,0
-quit ,4
-netco ,0
-intra ,0
-whatever ,1
-lyondell ,0
-reviewed ,0
-solicitation ,0
-filings ,0
-log ,20
-noon ,2
-locations ,0
-joe ,0
-completely ,0
-rivers ,0
-language ,0
-street ,0
-automatically ,0
-ft ,35
-powerful ,0
-specials ,0
-alone ,1
-fyi ,5
-properly ,0
-proper ,0
-explode ,0
-decrease ,2
-medication ,3
-desks ,0
-impacted ,0
-anywhere ,0
-completion ,0
-banking ,0
-consider ,0
-certificate ,0
-exercise ,1
-zeroed ,1
-websites ,0
-tonight ,0
-diligence ,0
-education ,0
-club ,0
-vegas ,1
-affordable ,0
-sports ,0
-predictions ,0
-billing ,0
-diamond ,3
-posted ,4
-prayer ,0
-actions ,2
-nomad ,0
-resuits ,0
-jason ,0
-purpose ,0
-deposit ,0
-entertainment ,0
-materially ,0
-blank ,0
-resolution ,0
-anderson ,0
-nat ,39
-rom ,38
-soma ,5
-organization ,1
-aquila ,0
-solid ,0
-affected ,0
-transco ,1
-spend ,0
-responsibilities ,0
-assume ,3
-header ,0
-accountant ,0
-functionality ,1
-meant ,0
-killed ,0
-analysts ,0
-rick ,2
-rolled ,0
-noted ,1
-discovered ,1
-offices ,0
-torch ,0
-often ,0
-york ,0
-joint ,0
-briley ,1
-competition ,0
-guide ,0
-intercompany ,0
-son ,36
-settlement ,5
-presently ,1
-cart ,4
-tim ,25
-entries ,1
-russ ,8
-valadez ,14
-rules ,6
-molly ,0
-apple ,1
-atleast ,0
-scheduler ,7
-pi ,125
-hector ,0
-dell ,1
-opm ,3
-hottlist ,0
-yap ,0
-gone ,1
-heal ,9
-llc ,0
-setting ,0
-reached ,0
-proposal ,0
-hundred ,1
-trust ,2
-official ,0
-table ,4
-mcgee ,0
-written ,0
-operation ,0
-cellspacing ,0
-laptop ,0
-feature ,0
-ram ,9
-victoria ,0
-larry ,0
-units ,3
-requests ,0
-continued ,0
-external ,0
-pack ,2
-couldn ,0
-lateral ,0
-strictly ,0
-resource ,7
-although ,0
-sr ,6
-commodity ,3
-pulled ,0
-protocol ,0
-bed ,1
-generated ,0
-redmond ,0
-girl ,0
-apparently ,0
-tool ,1
-reviews ,0
-released ,0
-movies ,1
-inside ,0
-shareholder ,0
-rr ,58
-compensation ,0
-beliefs ,0
-foresee ,0
-lease ,48
-rule ,12
-marta ,2
-chemical ,0
-hillary ,0
-hp ,12
-tongue ,0
-adonis ,0
-advises ,0
-master ,6
-eight ,6
-wasn ,0
-itself ,0
-documentation ,0
-xl ,1
-humble ,0
-elsa ,0
-pics ,0
-hughes ,0
-brokered ,0
-distribute ,3
-consultation ,2
-sheri ,0
-lists ,0
-cannon ,0
-treated ,0
-factor ,0
-putting ,1
-verified ,0
-releases ,0
-enhanced ,0
-controls ,0
-craig ,0
-worksheet ,7
-conversion ,0
-max ,0
-hrs ,0
-helpful ,0
-hand ,3
-producing ,0
-dl ,4
-developing ,0
-design ,1
-woman ,1
-understands ,0
-standards ,1
-promotion ,0
-sarco ,0
-hospital ,0
-ffffff ,0
-respective ,3
-richmond ,0
-conoco ,0
-driver ,0
-easily ,0
-sean ,0
-den ,15
-gateway ,0
-holdings ,1
-brad ,1
-college ,0
-gains ,0
-adult ,1
-dated ,9
-em ,110
-mcloughlin ,0
-anticipates ,0
-henderson ,2
-julia ,1
-negotiations ,0
-sofftwaares ,0
-garrick ,0
-comstock ,0
-trochta ,0
-imceanotes ,0
-ecom ,8
-larger ,0
-nommensen ,5
-coordinate ,0
-partnership ,1
-otcbb ,0
-announces ,0
-louis ,1
-dealer ,0
-reliance ,0
-season ,0
-agua ,0
-dulce ,0
-offshore ,0
-gathered ,1
-forever ,3
-function ,3
-happened ,0
-sample ,0
-easier ,0
-aim ,1
-pa ,204
-expensive ,1
-thinks ,0
-maximum ,0
-war ,36
-mining ,0
-drilling ,2
-owned ,0
-todd ,0
-advanced ,0
-provider ,0
-pending ,0
-providers ,0
-silver ,2
-cherry ,1
-hundreds ,0
-thoughts ,0
-addresses ,0
-beach ,0
-baby ,0
-requires ,0
-caused ,0
-variance ,0
-extension ,0
-carbide ,0
-anytime ,0
-adding ,1
-triple ,0
-dawn ,0
-martinez ,0
-entering ,2
-login ,1
-bretz ,0
-ls ,164
-writeoff ,0
-locker ,0
-wiil ,0
-block ,0
-blood ,0
-romeo ,0
-responsibility ,1
-brennan ,0
-btu ,22
-venture ,1
-connected ,0
-nascar ,0
-opinions ,0
-executed ,3
-cell ,2
-flag ,1
-doctors ,0
-invoiced ,1
-marlin ,0
-coffey ,0
-nice ,0
-amazing ,0
-ii ,2
-determined ,1
-handled ,0
-keeping ,0
-touch ,0
-upgrade ,0
-shipment ,0
-brought ,0
-forwarding ,1
-confidence ,0
-hesitate ,0
-seem ,2
-electronic ,0
-appreciated ,0
-deadline ,0
-franklin ,0
-heather ,0
-reasons ,3
-passed ,1
-safety ,0
-procedures ,4
-payback ,0
-networks ,0
-utility ,0
-count ,63
-africa ,0
-exact ,0
-creating ,1
-loading ,0
-processed ,0
-court ,1
-tier ,5
-sender ,0
-att ,14
-mailbox ,0
-glad ,0
-buddy ,0
-profiles ,0
-portion ,0
-protection ,0
-compressor ,1
-okay ,1
-oba ,32
-finding ,0
-heads ,0
-bar ,4
-turned ,0
-remote ,2
-illustrator ,0
-oem ,0
-noticed ,0
-mails ,1
-darron ,0
-nick ,1
-urbanek ,0
-jerry ,0
-barrett ,0
-ehronline ,0
-und ,13
-abdv ,0
-egm ,1
-couid ,0
-technoiogies ,0
-owns ,1
-improved ,0
-eat ,24
-moment ,1
-owners ,0
-develop ,3
-installed ,0
-videos ,0
-frank ,0
-hearing ,0
-inches ,0
-busy ,1
-ref ,9
-valuable ,0
-et ,255
-un ,176
-url ,2
-shawna ,0
-iso ,7
-capture ,4
-extremely ,0
-ya ,20
-causing ,0
-consent ,20
-anyway ,0
-round ,1
-discrepancies ,0
-cheapest ,0
-confidentiality ,0
-disclosure ,0
-prohibited ,0
-vol ,31
-correction ,5
-communicate ,0
-processes ,4
-spain ,0
-shareholders ,0
-supported ,0
-smoking ,2
-mine ,5
-biggest ,0
-erections ,0
-platform ,2
-miles ,0
-exciting ,1
-association ,0
-die ,11
-restricted ,4
-ma ,222
-income ,0
-goal ,0
-bane ,1
-collection ,0
-nathan ,0
-wind ,3
-piece ,0
-familiar ,0
-gore ,0
-experiencing ,0
-pico ,0
-mai ,17
-dewpoint ,0
-tessie ,0
-hair ,2
-bussell ,2
-diane ,5
-delivering ,0
-originally ,0
-accurate ,0
-began ,0
-seven ,0
-tracking ,0
-randall ,2
-gay ,5
-emerging ,0
-prescriptions ,0
-story ,1
-arial ,0
-florida ,0
-space ,0
-ownership ,0
-european ,0
-sutton ,3
-concerned ,0
-male ,0
-spent ,0
-agreements ,0
-industries ,4
-picture ,1
-filled ,0
-continues ,1
-death ,2
-choate ,0
-majeure ,1
-device ,0
-hence ,0
-ten ,16
-campaign ,0
-massive ,0
-eyes ,2
-requesting ,0
-lives ,0
-reminder ,0
-eliminate ,1
-copied ,0
-consemiu ,8
-died ,2
-sound ,0
-offered ,0
-expressed ,0
-anti ,7
-duplicate ,0
-steps ,0
-books ,1
-improve ,2
-implementation ,0
-gives ,3
-ac ,203
-peggy ,5
-proprietary ,0
-ways ,4
-advertisement ,1
-published ,0
-earnings ,0
-mortgage ,1
-consumer ,0
-ct ,763
-tape ,1
-fl ,34
-cia ,38
-organizational ,1
-agenda ,0
-rental ,0
-carriere ,0
-moshou ,0
-church ,0
-trouble ,1
-medium ,0
-aggressive ,0
-smart ,0
-zajac ,0
-ail ,23
-participants ,0
-gap ,0
-earthlink ,0
-wire ,1
-trades ,0
-messaging ,0
-ut ,127
-wil ,91
-richardson ,0
-blvd ,0
-glo ,33
-seneca ,0
-pubiisher ,0
-imited ,1
-isc ,11
-contacts ,0
-sleep ,0
-kyle ,6
-cooperation ,0
-possibly ,0
-leaving ,0
-motor ,0
-hopefully ,3
-tie ,31
-speak ,3
-mi ,113
-suggested ,0
-canadian ,2
-uses ,3
-connect ,3
-pvr ,1
-rich ,5
-places ,0
-auction ,0
-po ,81
-spacer ,0
-client ,0
-recommended ,0
-royalty ,0
-amended ,0
-default ,1
-living ,2
-regardless ,0
-human ,0
-bringing ,0
-focused ,0
-stores ,0
-variety ,0
-netherlands ,0
-leaders ,1
-bowen ,0
-salary ,0
-signed ,0
-penny ,0
-loan ,0
-desktop ,0
-chase ,9
-pleasure ,0
-compare ,0
-session ,0
-overall ,0
-stranger ,2
-length ,0
-planned ,0
-sp ,49
-darrel ,1
-raise ,1
-palestinian ,0
-expiration ,0
-serial ,0
-premiere ,0
-suzanne ,0
-reduced ,0
-players ,0
-applicable ,0
-impotence ,0
-buckley ,0
-wayne ,0
-hansen ,0
-indicative ,0
-sabrae ,0
-dating ,0
-winners ,0
-marshall ,0
-highest ,0
-ea ,292
-presentation ,0
-allowed ,0
-square ,0
-danny ,0
-gepl ,0
-hydrocarbon ,0
-alpine ,3
-christmas ,0
-muscle ,2
-souza ,0
-relating ,0
-begins ,0
-ecf ,0
-forth ,1
-answers ,0
-audit ,0
-approve ,0
-lunch ,0
-types ,1
-starts ,1
-difficult ,0
-le ,322
-lasts ,0
-series ,0
-till ,12
-edge ,5
-growing ,0
-covered ,1
-shipper ,0
-sometime ,0
-republic ,0
-filter ,1
-sooner ,0
-increasing ,2
-nelson ,0
-percentage ,0
-returned ,0
-pop ,3
-interface ,0
-kin ,28
-experienced ,0
-prime ,0
-merger ,0
-obtain ,2
-ryan ,17
-servers ,0
-attachments ,0
-achieve ,1
-effects ,0
-gov ,1
-examples ,0
-procedure ,4
-explore ,1
-caribbean ,0
-rally ,0
-amounts ,0
-comfort ,0
-attempt ,0
-greatly ,0
-amelia ,0
-engel ,11
-delay ,0
-fare ,0
-der ,26
-cove ,4
-filing ,0
-fletcher ,0
-leth ,0
-undervalued ,0
-cents ,0
-esther ,0
-hlavaty ,0
-reid ,0
-lls ,90
-troy ,0
-palmer ,11
-metals ,1
-las ,9
-carter ,0
-luis ,0
-migration ,0
-brief ,0
-hess ,1
-therein ,0
-ur ,158
-pond ,2
-joanne ,0
-community ,0
-tglo ,0
-eogi ,0
-ml ,2
-wysak ,0
-felipe ,0
-errors ,1
-affect ,1
-convenient ,0
-minimal ,0
-boost ,0
-incremental ,0
-decide ,4
-reserve ,3
-superior ,3
-kerr ,0
-willing ,0
-quite ,0
-wild ,0
-unlimited ,1
-sans ,1
-mother ,3
-computers ,1
-unfortunately ,0
-ordered ,0
-satisfaction ,0
-priority ,0
-traded ,0
-testing ,0
-portal ,0
-ward ,17
-lets ,0
-aren ,11
-knows ,0
-refer ,2
-shot ,0
-fda ,0
-tue ,5
-saying ,0
-cancel ,0
-forecast ,1
-cousino ,0
-bass ,3
-permanent ,0
-phones ,0
-technical ,0
-whose ,0
-objective ,1
-cards ,0
-distributed ,0
-learning ,0
-fire ,1
-drill ,2
-towards ,0
-forget ,5
-explosion ,0
-gloria ,0
-formula ,0
-redelivery ,0
-audio ,1
-visual ,0
-encoding ,0
-approach ,0
-doubt ,0
-staffing ,1
-excite ,0
-corel ,0
-tm ,7
-enronavailso ,0
-contacting ,0
-alland ,0
-heavy ,0
-economic ,0
-nigeria ,2
-milwaukee ,0
-phillip ,0
-curve ,0
-returns ,0
-padre ,0
-kathy ,0
-buttons ,0
-sir ,4
-vary ,0
-sounds ,0
-disclose ,1
-authority ,0
-flw ,0
-straight ,0
-worldnet ,0
-beemer ,1
-ooo ,0
-defs ,0
-thorough ,0
-officers ,0
-flight ,0
-prefer ,0
-awesome ,0
-macintosh ,0
-feet ,1
-constitutes ,0
-formosa ,0
-porn ,0
-armstrong ,0
-driscoll ,0
-watches ,0
-newsietter ,0
-twenty ,0
-tommy ,0
-fields ,0
-method ,0
-setup ,0
-allocating ,0
-initially ,0
-missed ,1
-clarification ,1
-especially ,4
-dorcheus ,0
-del ,23
-millions ,0
-insurance ,0
-pooling ,0
-trial ,1
-tennessee ,0
-ellis ,8
-direction ,0
-bold ,0
-catch ,1
-performing ,0
-accepted ,0
-matters ,1
-batch ,0
-continuing ,1
-winning ,0
-symbol ,1
-offsystem ,0
-decisions ,0
-produced ,0
-ended ,1
-greatest ,0
-degree ,0
-solmonson ,0
-imbalances ,0
-fall ,1
-fear ,0
-hate ,3
-fight ,0
-reallocated ,0
-debt ,0
-reform ,0
-australia ,0
-plain ,1
-prompt ,0
-remains ,1
-ifhsc ,0
-enhancements ,0
-connevey ,4
-jay ,2
-valued ,0
-lay ,5
-infrastructure ,0
-military ,0
-allowing ,0
-ff ,35
-dry ,1
+the = 462
+to = 406
+ect = 651
+and = 191
+for = 179
+of = 131
+a = 4042
+you = 145
+hou = 299
+in = 720
+on = 722
+is = 344
+this = 80
+enron = 80
+i = 3315
+be = 205
+that = 69
+will = 90
+have = 61
+with = 58
+your = 42
+at = 460
+we = 123
+s = 2920
+are = 80
+it = 328
+by = 30
+com = 66
+as = 346
+from = 31
+gas = 33
+or = 510
+not = 54
+me = 364
+deal = 102
+if = 125
+meter = 19
+hpl = 11
+please = 30
+re = 584
+e = 6307
+any = 53
+our = 76
+corp = 49
+can = 48
+d = 1642
+all = 83
+has = 36
+was = 19
+know = 20
+need = 33
+an = 728
+forwarded = 10
+new = 52
+t = 4455
+may = 16
+up = 69
+j = 170
+mmbtu = 22
+should = 27
+do = 102
+am = 136
+get = 36
+out = 57
+see = 9
+no = 191
+there = 20
+price = 10
+daren = 11
+but = 26
+been = 9
+company = 10
+l = 2371
+these = 29
+let = 17
+so = 162
+would = 17
+m = 1278
+into = 16
+xls = 1
+farmer = 9
+attached = 7
+us = 165
+information = 17
+they = 5
+message = 3
+day = 27
+time = 21
+my = 13
+one = 68
+what = 9
+only = 13
+http = 5
+th = 927
+volume = 27
+mail = 10
+contract = 38
+which = 12
+month = 11
+more = 10
+robert = 15
+sitara = 48
+about = 4
+texas = 10
+nom = 43
+energy = 15
+pec = 41
+questions = 8
+www = 5
+deals = 37
+volumes = 15
+pm = 28
+ena = 27
+now = 35
+their = 7
+file = 6
+some = 31
+email = 4
+just = 9
+also = 21
+call = 19
+change = 106
+other = 20
+here = 43
+like = 12
+b = 806
+flow = 15
+net = 16
+following = 14
+p = 1208
+production = 6
+when = 15
+over = 16
+back = 30
+want = 14
+original = 4
+them = 8
+below = 4
+o = 3619
+ticket = 46
+c = 2491
+he = 644
+could = 5
+make = 19
+inc = 30
+report = 6
+march = 6
+contact = 1
+were = 13
+days = 3
+list = 7
+nomination = 17
+system = 6
+who = 9
+april = 14
+number = 9
+sale = 22
+don = 38
+its = 9
+first = 6
+thanks = 24
+business = 11
+help = 6
+per = 50
+through = 4
+july = 2
+forward = 14
+font = 0
+free = 3
+daily = 4
+use = 54
+order = 6
+today = 4
+r = 3012
+had = 9
+fw = 2
+set = 20
+plant = 2
+statements = 0
+go = 25
+gary = 9
+oil = 4
+line = 35
+sales = 1
+w = 745
+effective = 4
+well = 7
+tenaska = 0
+take = 20
+june = 0
+x = 127
+within = 2
+nbsp = 0
+she = 17
+how = 15
+north = 4
+america = 4
+being = 3
+under = 8
+next = 1
+week = 6
+than = 37
+january = 0
+last = 5
+two = 8
+service = 18
+purchase = 9
+name = 30
+less = 5
+height = 0
+off = 10
+agreement = 1
+k = 449
+work = 21
+tap = 1
+group = 7
+year = 0
+based = 2
+transport = 3
+after = 21
+think = 12
+made = 8
+each = 5
+available = 4
+changes = 47
+due = 24
+f = 818
+h = 2026
+services = 10
+smith = 4
+send = 0
+management = 5
+stock = 3
+sent = 30
+ll = 388
+co = 421
+office = 6
+needs = 1
+cotten = 2
+did = 9
+actuals = 0
+u = 1660
+money = 2
+before = 5
+looking = 5
+then = 9
+pills = 71
+online = 11
+request = 5
+look = 8
+desk = 4
+ami = 9
+his = 88
+same = 14
+george = 2
+chokshi = 0
+point = 1
+delivery = 1
+friday = 1
+does = 13
+size = 1
+august = 0
+product = 10
+pat = 33
+width = 0
+iv = 78
+noms = 4
+address = 2
+above = 7
+sure = 14
+give = 9
+october = 1
+future = 0
+find = 6
+market = 16
+n = 3364
+mary = 0
+vance = 4
+melissa = 3
+said = 2
+internet = 0
+still = 12
+account = 3
+those = 1
+down = 10
+link = 3
+hsc = 2
+rate = 5
+people = 2
+pipeline = 18
+best = 5
+actual = 2
+very = 16
+end = 20
+home = 3
+houston = 1
+tu = 56
+high = 9
+her = 105
+team = 3
+products = 2
+many = 2
+currently = 2
+spot = 0
+receive = 7
+good = 4
+such = 4
+going = 1
+process = 7
+feb = 3
+monday = 0
+info = 20
+david = 0
+lloyd = 7
+again = 2
+both = 8
+click = 2
+subject = 27
+jackie = 4
+december = 0
+total = 5
+na = 236
+lisa = 1
+ve = 296
+september = 0
+hours = 1
+until = 3
+resources = 6
+because = 18
+aol = 0
+february = 2
+where = 10
+g = 957
+investment = 0
+issue = 9
+duke = 0
+since = 2
+pay = 4
+show = 6
+way = 7
+global = 31
+computron = 0
+further = 1
+most = 1
+place = 20
+offer = 1
+natural = 1
+activity = 0
+eastrans = 5
+graves = 3
+right = 1
+prices = 1
+date = 26
+john = 4
+utilities = 0
+november = 0
+clynes = 1
+jan = 0
+securities = 4
+meeting = 0
+susan = 2
+hplc = 7
+julie = 14
+able = 20
+received = 2
+align = 0
+term = 11
+id = 101
+revised = 0
+thursday = 1
+pg = 6
+fee = 6
+hplno = 0
+trading = 5
+additional = 9
+site = 3
+txu = 0
+data = 14
+wellhead = 2
+reply = 1
+taylor = 3
+news = 1
+unify = 43
+michael = 1
+provide = 9
+note = 8
+much = 5
+access = 0
+lannou = 0
+every = 10
+between = 1
+keep = 3
+tuesday = 4
+review = 2
+great = 1
+tom = 14
+put = 9
+done = 4
+long = 5
+save = 0
+section = 0
+must = 4
+v = 556
+part = 67
+nd = 279
+million = 1
+check = 8
+trade = 0
+bob = 0
+created = 10
+steve = 16
+prior = 5
+copy = 2
+continue = 2
+numbers = 5
+via = 27
+world = 5
+demand = 0
+hanks = 24
+contracts = 14
+phone = 3
+transaction = 2
+customer = 1
+possible = 1
+pefs = 4
+meyers = 15
+months = 0
+special = 5
+without = 5
+used = 11
+regarding = 6
+software = 2
+howard = 1
+support = 1
+buy = 18
+young = 0
+meters = 2
+thru = 2
+believe = 1
+gcs = 6
+cec = 6
+entered = 1
+control = 2
+dec = 11
+face = 0
+create = 12
+weissman = 0
+st = 309
+color = 0
+come = 5
+supply = 5
+brian = 1
+hplo = 0
+own = 15
+correct = 13
+customers = 1
+web = 2
+allocation = 0
+soon = 2
+using = 3
+development = 3
+mark = 18
+low = 53
+power = 0
+problem = 12
+once = 14
+however = 4
+tickets = 19
+border = 0
+performance = 1
+manager = 7
+rates = 0
+center = 0
+companies = 0
+risk = 3
+details = 1
+needed = 6
+international = 0
+field = 2
+even = 19
+someone = 12
+doc = 3
+fuel = 5
+lee = 1
+paid = 0
+while = 4
+start = 6
+index = 0
+include = 2
+nominations = 8
+act = 71
+pricing = 6
+scheduled = 8
+gathering = 1
+type = 13
+href = 0
+during = 1
+aimee = 0
+anything = 6
+feel = 2
+fuels = 4
+getting = 4
+advice = 0
+why = 3
+increase = 1
+path = 28
+sell = 10
+works = 15
+issues = 2
+three = 5
+enronxgate = 0
+camp = 9
+either = 3
+form = 22
+security = 5
+interest = 0
+financial = 7
+family = 4
+xp = 20
+plan = 5
+current = 7
+top = 2
+another = 1
+src = 0
+spreadsheet = 2
+allen = 0
+wednesday = 1
+read = 6
+him = 1
+working = 2
+wynne = 0
+add = 26
+deliveries = 7
+buyback = 15
+allocated = 1
+firm = 15
+james = 0
+marketing = 8
+tx = 0
+results = 0
+got = 6
+stocks = 0
+calpine = 2
+might = 0
+operations = 0
+position = 4
+logistics = 7
+fax = 1
+cost = 3
+party = 44
+zero = 5
+pops = 0
+old = 14
+pt = 27
+scheduling = 3
+flowed = 3
+dollars = 1
+update = 9
+gco = 0
+katy = 0
+including = 1
+follow = 23
+yahoo = 0
+already = 1
+suite = 0
+error = 1
+past = 2
+page = 0
+stop = 2
+changed = 3
+book = 1
+program = 1
+few = 1
+better = 0
+operating = 2
+equistar = 19
+move = 3
+cotton = 4
+aep = 0
+y = 950
+state = 2
+ees = 3
+rita = 0
+provided = 4
+employees = 1
+period = 6
+morning = 3
+cd = 3
+hotmail = 1
+entex = 0
+swing = 5
+real = 2
+exchange = 1
+tomorrow = 0
+lst = 1
+counterparty = 42
+parker = 0
+person = 9
+follows = 6
+valid = 22
+visit = 4
+little = 1
+professional = 0
+quality = 0
+confirm = 11
+something = 4
+megan = 0
+brenda = 2
+around = 0
+windows = 1
+im = 92
+storage = 3
+accounting = 0
+called = 0
+ranch = 1
+tax = 0
+problems = 6
+case = 4
+teco = 0
+fact = 0
+always = 4
+too = 6
+unsubscribe = 0
+amount = 4
+coastal = 1
+never = 1
+rodriguez = 1
+love = 3
+acton = 6
+shut = 0
+pipe = 26
+project = 0
+hope = 4
+limited = 1
+invoice = 5
+credit = 2
+full = 5
+survey = 0
+ray = 9
+carlos = 0
+anyone = 2
+wanted = 1
+yet = 6
+ic = 243
+scott = 26
+years = 0
+charlie = 0
+soft = 3
+notice = 1
+advise = 0
+addition = 16
+donald = 1
+lsk = 0
+wish = 4
+katherine = 3
+website = 0
+hplnl = 0
+schumack = 0
+prescription = 1
+cover = 4
+shares = 0
+cash = 3
+imbalance = 6
+united = 0
+handle = 0
+big = 1
+everyone = 2
+style = 0
+clear = 5
+producer = 2
+weekend = 2
+city = 6
+requested = 2
+stone = 1
+left = 2
+payment = 0
+mobil = 0
+shows = 1
+small = 0
+confirmed = 9
+technology = 3
+meet = 0
+extend = 3
+life = 5
+intended = 0
+sherlyn = 0
+schedule = 17
+else = 1
+letter = 2
+box = 1
+bill = 3
+richard = 5
+lamphier = 0
+complete = 3
+ever = 39
+release = 18
+newsletter = 0
+anita = 3
+clem = 0
+having = 4
+herod = 2
+beginning = 1
+papayoti = 0
+try = 9
+mike = 2
+enter = 11
+estimates = 0
+location = 1
+cut = 8
+question = 8
+things = 1
+personal = 1
+feedback = 3
+cialis = 7
+found = 0
+area = 0
+dow = 13
+terms = 0
+central = 0
+necessary = 6
+man = 34
+run = 6
+reason = 7
+third = 1
+midcon = 0
+charge = 2
+president = 1
+de = 321
+listed = 3
+meds = 4
+thomas = 11
+thought = 2
+capital = 0
+added = 1
+ask = 6
+weeks = 1
+investing = 0
+commercial = 1
+star = 26
+several = 1
+easy = 1
+view = 3
+cannot = 1
+extended = 1
+lauri = 0
+beaumont = 0
+union = 0
+times = 2
+open = 2
+cause = 30
+monthly = 1
+action = 3
+offers = 0
+industry = 0
+states = 0
+side = 3
+mailto = 0
+probably = 0
+neal = 0
+second = 1
+stephanie = 11
+download = 0
+flash = 1
+agree = 3
+mcf = 1
+transfer = 0
+doing = 0
+important = 0
+basis = 0
+different = 9
+final = 1
+koch = 0
+exxon = 0
+remove = 2
+microsoft = 0
+interested = 0
+application = 3
+sept = 0
+mg = 23
+write = 0
+lp = 15
+east = 15
+requirements = 0
+code = 0
+value = 1
+thank = 26
+together = 4
+exploration = 4
+mid = 1
+dfarmer = 1
+everything = 2
+receipt = 3
+thu = 1
+afternoon = 1
+late = 11
+enserch = 0
+coming = 1
+bank = 0
+response = 4
+tell = 2
+shipping = 1
+night = 0
+events = 2
+cynthia = 0
+lsp = 1
+close = 1
+legal = 8
+country = 2
+direct = 5
+expected = 4
+ces = 67
+corporation = 13
+options = 1
+really = 1
+voip = 0
+nominated = 10
+etc = 5
+latest = 2
+potential = 0
+priced = 2
+edward = 2
+valero = 7
+material = 3
+stack = 3
+victor = 0
+redeliveries = 5
+loss = 3
+remember = 4
+baumbach = 0
+option = 1
+private = 3
+longer = 1
+aware = 3
+included = 1
+drugs = 1
+public = 5
+reinhardt = 1
+version = 1
+hesse = 1
+discuss = 2
+related = 2
+asked = 0
+say = 3
+viagra = 14
+revision = 1
+bgcolor = 0
+kind = 0
+pro = 79
+completed = 1
+health = 9
+ready = 3
+plans = 0
+registered = 0
+regards = 2
+carthage = 3
+zone = 0
+fill = 0
+away = 1
+computer = 1
+systems = 3
+industrial = 1
+mentioned = 1
+told = 0
+therefore = 1
+growth = 1
+sold = 0
+track = 1
+reports = 6
+south = 19
+rd = 93
+jim = 1
+costs = 1
+image = 0
+expect = 4
+return = 1
+physical = 1
+el = 232
+browser = 2
+donna = 14
+stacey = 1
+begin = 2
+china = 0
+duty = 0
+approximately = 0
+showing = 0
+unit = 7
+jones = 0
+hard = 6
+verify = 0
+updated = 2
+eol = 5
+cs = 14
+orders = 1
+talk = 4
+trying = 0
+base = 6
+given = 1
+server = 3
+source = 8
+pathed = 2
+strong = 0
+bryan = 17
+directly = 1
+risks = 0
+whole = 3
+major = 2
+users = 1
+purchases = 0
+oo = 46
+karen = 0
+luong = 3
+level = 6
+required = 0
+delivered = 3
+portfolio = 0
+riley = 1
+ali = 43
+easttexas = 2
+poorman = 0
+bellamy = 0
+assistance = 1
+nothing = 0
+gif = 0
+thing = 25
+retail = 0
+didn = 2
+valley = 4
+department = 4
+cleburne = 0
+allow = 7
+gpgfin = 0
+answer = 0
+items = 4
+paste = 2
+avila = 0
+taken = 2
+mm = 56
+nguyen = 0
+ensure = 1
+reference = 2
+hall = 1
+later = 1
+lone = 1
+user = 6
+methanol = 0
+facility = 0
+network = 0
+spoke = 2
+though = 5
+tabs = 1
+taking = 1
+status = 1
+considered = 0
+purchased = 3
+says = 0
+yourself = 0
+paliourg = 5
+dy = 10
+jeff = 1
+businesses = 1
+fred = 1
+transportation = 0
+apache = 0
+morris = 1
+nov = 2
+ltd = 6
+brand = 1
+federal = 0
+statement = 1
+oasis = 1
+reflect = 5
+assets = 0
+lamadrid = 0
+general = 0
+bridge = 8
+ability = 15
+oct = 6
+play = 4
+enrononline = 9
+compliance = 2
+spam = 0
+availability = 0
+king = 22
+understanding = 3
+chance = 1
+quick = 5
+effort = 1
+points = 0
+reliantenergy = 0
+fixed = 0
+short = 0
+hill = 1
+cheryl = 1
+aepin = 0
+key = 2
+understand = 4
+valign = 0
+capacity = 3
+game = 1
+took = 1
+bring = 1
+guys = 1
+god = 1
+green = 3
+care = 2
+withers = 0
+property = 0
+hub = 0
+johnson = 0
+employee = 4
+wants = 3
+albrecht = 0
+meaning = 0
+expectations = 0
+mx = 1
+moved = 1
+cernosek = 0
+matter = 1
+devon = 0
+calls = 5
+worldwide = 1
+records = 0
+removed = 1
+lose = 2
+large = 2
+referenced = 2
+walker = 0
+iferc = 1
+enw = 0
+ponton = 0
+eileen = 0
+ship = 4
+upon = 1
+enerfin = 0
+jennifer = 0
+looks = 2
+staff = 3
+pc = 1
+target = 0
+waha = 0
+making = 3
+cp = 4
+impact = 13
+partner = 2
+immediately = 0
+shall = 0
+channel = 1
+takes = 7
+sat = 1
+others = 2
+hear = 1
+went = 3
+travel = 0
+listing = 0
+approved = 0
+processing = 0
+early = 0
+enough = 1
+sally = 1
+starting = 0
+distribution = 0
+tejas = 0
+transactions = 2
+stay = 0
+earl = 1
+superty = 2
+doesn = 2
+reserves = 2
+includes = 0
+choose = 0
+adobe = 0
+publisher = 0
+paso = 0
+cornhusker = 0
+training = 0
+markets = 2
+content = 1
+solution = 0
+shell = 0
+jpg = 0
+print = 0
+drive = 0
+pain = 3
+password = 12
+half = 1
+herrera = 0
+saturday = 0
+moopid = 0
+hotlist = 0
+balance = 6
+super = 7
+vacation = 0
+sex = 3
+happy = 0
+excess = 2
+existing = 0
+fund = 1
+stella = 0
+share = 1
+sign = 24
+wells = 1
+won = 0
+four = 4
+text = 0
+card = 1
+tisdale = 0
+fwd = 0
+appreciate = 0
+non = 13
+experience = 0
+savings = 0
+settlements = 3
+draft = 2
+couple = 0
+informed = 0
+biz = 3
+watch = 1
+plus = 3
+sun = 1
+expense = 0
+images = 0
+land = 6
+occur = 3
+flowing = 0
+mar = 34
+terry = 2
+darren = 2
+cheap = 0
+weight = 2
+dynegy = 0
+activities = 0
+become = 1
+mr = 0
+format = 17
+attention = 1
+entire = 3
+photoshop = 1
+williams = 1
+instructions = 0
+neon = 0
+janet = 0
+contains = 0
+ago = 3
+friends = 0
+against = 0
+boas = 0
+music = 0
+certain = 2
+liz = 15
+svcs = 0
+record = 3
+fast = 5
+dave = 11
+held = 0
+mind = 2
+ua = 34
+publication = 0
+differ = 9
+comments = 0
+fun = 6
+rest = 8
+instant = 0
+agent = 0
+communications = 1
+director = 2
+partners = 1
+investors = 0
+expedia = 0
+kevin = 0
+assist = 3
+safe = 4
+approval = 1
+allocate = 2
+black = 1
+none = 1
+intrastate = 0
+document = 1
+eric = 7
+hakemack = 0
+expired = 3
+lower = 1
+active = 4
+secure = 0
+cc = 47
+five = 1
+determine = 1
+press = 7
+colspan = 0
+missing = 1
+jill = 0
+discussion = 1
+relief = 2
+respect = 3
+specific = 2
+technologies = 0
+al = 511
+holmes = 0
+white = 0
+yesterday = 0
+medical = 0
+pinion = 2
+sorry = 4
+men = 77
+leave = 0
+pass = 14
+video = 0
+gomes = 0
+doctor = 1
+projects = 0
+limit = 1
+air = 8
+knle = 0
+pharmacy = 2
+confirmation = 1
+opportunity = 3
+involve = 0
+notify = 1
+gtc = 0
+class = 0
+ken = 11
+started = 0
+outage = 0
+confidential = 1
+room = 0
+blue = 0
+estimated = 0
+officer = 4
+reach = 0
+messages = 0
+database = 3
+words = 9
+prc = 0
+tracked = 0
+transition = 1
+light = 2
+national = 0
+hot = 3
+offering = 0
+gulf = 0
+provides = 0
+iit = 0
+demokritos = 0
+mckay = 0
+average = 2
+wide = 1
+heard = 0
+files = 0
+dan = 14
+billed = 0
+mccoy = 0
+rc = 47
+exactly = 0
+middle = 0
+select = 3
+bruce = 4
+louisiana = 0
+receiving = 1
+california = 0
+event = 5
+roll = 0
+mops = 1
+william = 7
+appear = 6
+perfect = 1
+html = 0
+features = 0
+join = 2
+greater = 0
+sunday = 0
+pick = 1
+featured = 0
+cdnow = 0
+prize = 0
+reveffo = 0
+olsen = 0
+expects = 0
+estimate = 1
+near = 6
+common = 6
+package = 1
+title = 0
+whether = 2
+bought = 0
+evergreen = 2
+difference = 0
+elizabeth = 11
+history = 1
+monitor = 0
+advised = 0
+result = 0
+sources = 6
+school = 1
+unaccounted = 0
+paragraph = 0
+turn = 2
+kimberly = 0
+increased = 0
+communication = 1
+members = 2
+concerns = 0
+uncertainties = 0
+associated = 3
+reduce = 0
+committed = 1
+wi = 199
+asap = 0
+goes = 0
+trader = 0
+waiting = 0
+canada = 1
+worth = 2
+representative = 0
+claim = 1
+ceo = 1
+london = 1
+discussions = 1
+php = 0
+brazos = 0
+trevino = 0
+calling = 0
+involved = 0
+la = 145
+gift = 0
+southern = 0
+groups = 0
+hour = 2
+tufco = 1
+previously = 4
+voice = 6
+normally = 2
+resolve = 0
+efforts = 0
+nor = 13
+recent = 1
+purchasing = 0
+county = 0
+ok = 18
+express = 1
+generic = 2
+according = 2
+respond = 1
+situation = 0
+hold = 5
+lot = 4
+interconnect = 2
+word = 18
+came = 0
+west = 13
+role = 2
+opportunities = 1
+corporate = 0
+remain = 6
+similar = 2
+readers = 0
+suggestions = 1
+subscribers = 0
+projections = 0
+lead = 1
+learn = 0
+resolved = 0
+agreed = 0
+sec = 11
+head = 6
+enjoy = 1
+img = 0
+rnd = 0
+responsible = 1
+outstanding = 0
+member = 6
+panenergy = 0
+american = 1
+cass = 3
+register = 0
+promotions = 0
+parties = 12
+winfree = 0
+selling = 0
+usage = 0
+appropriate = 2
+assignment = 20
+media = 1
+believes = 0
+require = 7
+submit = 0
+model = 1
+spinnaker = 0
+copano = 0
+facilities = 3
+opinion = 0
+factors = 0
+identified = 0
+beverly = 0
+ews = 3
+gdp = 0
+deliver = 13
+job = 0
+profile = 0
+across = 1
+neuweiler = 1
+suggest = 1
+girls = 0
+manage = 12
+usa = 4
+local = 0
+bad = 1
+greg = 4
+vs = 0
+fees = 0
+digital = 0
+cf = 2
+strangers = 0
+registration = 0
+delta = 0
+rolex = 0
+goliad = 0
+hesco = 0
+success = 3
+primary = 0
+quarter = 0
+course = 0
+chairman = 1
+petroleum = 1
+notes = 2
+medications = 3
+ei = 50
+instead = 0
+fine = 9
+lake = 0
+pre = 31
+force = 4
+seek = 0
+recipient = 0
+gain = 2
+placed = 4
+age = 30
+least = 1
+body = 2
+asking = 0
+discussed = 0
+hanson = 0
+emails = 1
+nominate = 11
+ext = 7
+known = 0
+ones = 0
+ed = 334
+assigned = 0
+htmlimg = 0
+means = 4
+present = 1
+various = 3
+invoices = 2
+gd = 3
+agency = 0
+along = 1
+located = 1
+reflects = 0
+solutions = 0
+ex = 74
+house = 3
+cds = 0
+br = 64
+owner = 1
+apr = 17
+sullivan = 0
+basin = 0
+linda = 11
+worked = 0
+car = 20
+seen = 0
+properties = 0
+booked = 0
+higher = 0
+store = 1
+est = 59
+revenue = 0
+wait = 0
+women = 2
+far = 11
+met = 28
+wholesale = 1
+range = 3
+kcs = 0
+recorded = 0
+brown = 0
+lots = 1
+match = 5
+input = 0
+grant = 0
+providing = 1
+huge = 0
+investor = 0
+kelly = 2
+apply = 0
+paths = 6
+handling = 0
+pipes = 6
+advantage = 1
+analysis = 1
+focus = 0
+draw = 0
+red = 26
+origination = 0
+connection = 0
+planning = 1
+wilson = 0
+golf = 0
+summary = 0
+item = 4
+bankruptcy = 0
+expenses = 0
+pgev = 0
+encina = 0
+beaty = 0
+memo = 2
+initial = 0
+thousand = 1
+mills = 12
+penis = 0
+friend = 0
+conversation = 0
+multiple = 0
+martin = 0
+names = 5
+bit = 8
+dth = 0
+talked = 0
+behalf = 1
+preliminary = 5
+button = 0
+herein = 0
+gisb = 12
+coupon = 0
+sa = 96
+oi = 22
+appears = 1
+door = 2
+texaco = 0
+csikos = 0
+arrangements = 0
+cpr = 0
+expires = 0
+popular = 1
+sending = 0
+research = 1
+conditions = 1
+gb = 0
+board = 2
+ca = 210
+applications = 1
+tried = 0
+paying = 0
+acquisition = 0
+reporting = 0
+normal = 3
+maintenance = 0
+resume = 0
+announced = 0
+attachment = 0
+buyer = 0
+objectives = 1
+prod = 14
+represent = 0
+sandi = 0
+hplnol = 0
+government = 0
+committee = 2
+running = 2
+tetco = 0
+discount = 3
+jo = 13
+holding = 2
+earlier = 1
+positions = 0
+happen = 2
+mailing = 1
+decided = 4
+recently = 1
+chris = 2
+xanax = 6
+valium = 5
+broadband = 0
+individual = 2
+station = 1
+td = 7
+financing = 0
+somehow = 0
+pena = 1
+critical = 0
+attend = 1
+kristen = 0
+inform = 17
+highly = 4
+hl = 10
+phillips = 0
+minutes = 1
+titles = 0
+affiliate = 0
+wife = 0
+lonestar = 0
+charlotte = 0
+quickly = 1
+paper = 2
+test = 4
+comes = 1
+mobile = 0
+internal = 2
+privacy = 1
+ideas = 0
+live = 13
+gotten = 0
+floor = 0
+benefit = 2
+percent = 0
+ms = 25
+dr = 24
+ebs = 0
+msn = 0
+gave = 1
+dallas = 0
+enterprise = 1
+rx = 1
+spring = 1
+ftar = 0
+ooking = 6
+hawkins = 0
+exclusive = 0
+selected = 0
+baxter = 2
+actually = 1
+single = 1
+shop = 3
+nominates = 0
+guarantee = 1
+minute = 2
+correctly = 1
+unique = 0
+bid = 0
+building = 0
+stated = 0
+accept = 0
+assumptions = 0
+centana = 0
+senior = 0
+pill = 72
+kinsey = 0
+sap = 2
+immediate = 1
+goals = 0
+category = 0
+mitchell = 0
+acceptance = 0
+termination = 1
+sweeney = 0
+facts = 0
+amazon = 0
+arrangement = 0
+josey = 0
+funds = 0
+among = 0
+accuracy = 0
+mean = 5
+rather = 0
+kim = 1
+egmnom = 0
+indicate = 2
+updates = 3
+extra = 2
+adjustment = 0
+accounts = 1
+lowest = 0
+gold = 1
+purposes = 0
+remaining = 1
+talking = 2
+entry = 1
+road = 3
+load = 0
+simply = 1
+europe = 0
+lindley = 0
+understood = 0
+logos = 0
+hi = 190
+speed = 0
+profit = 0
+notified = 0
+jackson = 6
+z = 86
+vols = 0
+serve = 6
+additionally = 0
+shipped = 0
+connor = 0
+fontfont = 0
+q = 74
+kept = 0
+dollar = 2
+jr = 6
+almost = 0
+fri = 1
+paul = 0
+documents = 1
+analyst = 0
+crude = 0
+cap = 10
+shopping = 0
+aug = 3
+clearance = 1
+schneider = 0
+ftworth = 2
+father = 0
+anticipated = 0
+resellers = 0
+congress = 0
+counterparties = 12
+epgt = 0
+buying = 0
+san = 11
+invest = 1
+cartwheel = 1
+brandywine = 0
+wrong = 1
+mtbe = 0
+split = 0
+submitted = 0
+hull = 6
+gra = 26
+children = 0
+leader = 1
+true = 4
+baseload = 0
+mb = 50
+letters = 1
+billion = 1
+rights = 0
+mtr = 12
+heidi = 1
+clean = 5
+historical = 0
+asset = 2
+foreign = 1
+gr = 57
+entity = 7
+developed = 0
+maybe = 0
+jeffrey = 0
+transmission = 1
+outside = 1
+lost = 1
+membership = 0
+invitation = 0
+ocean = 0
+legislation = 0
+hernandez = 11
+pep = 0
+payments = 0
+wallis = 0
+rev = 14
+kenneth = 3
+seaman = 0
+annual = 0
+guess = 1
+bammel = 0
+lines = 6
+guadalupe = 0
+zivley = 0
+exception = 0
+example = 1
+pathing = 10
+revisions = 0
+pipelines = 6
+equity = 2
+budget = 0
+wed = 4
+dealers = 0
+window = 3
+juno = 0
+claims = 0
+bottom = 0
+standard = 1
+alternative = 2
+merchant = 0
+braband = 0
+topica = 0
+telephone = 1
+reliant = 0
+speculative = 0
+yes = 4
+en = 492
+morgan = 0
+cable = 2
+edmondson = 0
+participate = 0
+usb = 0
+throughout = 0
+checked = 0
+myself = 0
+contents = 0
+fat = 1
+investments = 0
+six = 0
+build = 1
+giving = 0
+calendar = 0
+inherent = 0
+edition = 0
+darial = 0
+hr = 37
+trip = 3
+pull = 0
+moving = 0
+concern = 1
+proposed = 0
+rm = 83
+deer = 0
+enquiries = 0
+alt = 28
+tammy = 1
+front = 0
+reduction = 0
+evening = 3
+concerning = 0
+gets = 1
+effect = 6
+isn = 2
+haven = 0
+cowboy = 0
+sea = 1
+dvd = 0
+launch = 5
+minimum = 0
+changing = 8
+built = 0
+avoid = 0
+chief = 4
+stephen = 0
+chad = 3
+manual = 2
+finally = 0
+strategy = 0
+executive = 2
+thousands = 0
+conflict = 0
+resulting = 0
+policy = 4
+commission = 0
+stand = 9
+positive = 0
+quantity = 2
+programs = 0
+airmail = 0
+texoma = 0
+prepared = 0
+austin = 0
+matt = 1
+intent = 0
+uae = 0
+citibank = 0
+jaquet = 0
+hol = 15
+harris = 0
+min = 51
+hplr = 0
+advance = 1
+weather = 0
+terminated = 1
+whom = 0
+sheet = 10
+venturatos = 0
+cellpadding = 0
+hotel = 0
+leading = 0
+guaranteed = 0
+idea = 2
+announce = 0
+pleased = 0
+award = 0
+operational = 0
+prepare = 0
+schedulers = 1
+child = 1
+sum = 7
+quote = 0
+adjusted = 0
+warning = 10
+issued = 0
+ga = 94
+cross = 1
+detail = 2
+pertaining = 0
+tess = 0
+owe = 9
+crow = 2
+availabilities = 0
+griffin = 0
+christy = 0
+crosstex = 0
+eel = 5
+itoy = 0
+heart = 0
+licensed = 2
+overnight = 0
+cal = 42
+otherwise = 0
+luck = 0
+stretch = 0
+generation = 0
+broker = 0
+construed = 0
+except = 5
+traders = 0
+carry = 0
+column = 0
+approx = 2
+main = 7
+alert = 3
+charges = 1
+step = 14
+revenues = 0
+games = 0
+gottlob = 0
+looked = 0
+individuals = 2
+beck = 0
+stuff = 0
+welcome = 1
+port = 17
+glover = 0
+description = 1
+daniel = 0
+quantities = 3
+park = 0
+managing = 1
+town = 0
+seller = 1
+summer = 1
+tina = 16
+dates = 3
+eff = 9
+dudley = 0
+ferc = 1
+robin = 0
+charles = 0
+customerservice = 0
+zonedubai = 0
+emirates = 0
+aeor = 0
+clickathome = 0
+materia = 3
+island = 0
+vaughn = 0
+sexual = 2
+eiben = 0
+forms = 1
+delete = 0
+realize = 0
+tailgate = 0
+behind = 0
+villarreal = 0
+lon = 8
+benoit = 0
+simple = 0
+tech = 4
+ahead = 0
+double = 1
+ordering = 0
+se = 359
+miss = 4
+law = 1
+eb = 14
+post = 4
+outlook = 0
+equipment = 0
+leslie = 1
+reeves = 0
+org = 8
+tools = 0
+cold = 1
+adjustments = 0
+contained = 0
+saw = 0
+edit = 5
+deciding = 0
+finance = 0
+patti = 0
+listbot = 0
+river = 0
+kathryn = 16
+holiday = 0
+successful = 0
+unable = 0
+advisor = 0
+pool = 0
+bryce = 2
+outages = 0
+adjust = 0
+screen = 0
+otc = 0
+brent = 0
+helps = 0
+auto = 2
+foot = 0
+region = 0
+links = 0
+contain = 2
+knowledge = 0
+yvette = 6
+dial = 1
+pressure = 0
+detailed = 0
+indicated = 1
+charged = 0
+sites = 0
+makes = 0
+female = 0
+mcmills = 1
+cook = 1
+mazowita = 0
+meredith = 0
+allocations = 0
+meetings = 0
+particular = 1
+environment = 1
+drug = 2
+search = 1
+mailings = 0
+designed = 0
+rock = 1
+measurement = 0
+art = 89
+corrected = 0
+kids = 0
+benefits = 1
+tv = 1
+seems = 1
+husband = 0
+fix = 1
+grow = 1
+decision = 0
+wireless = 0
+mo = 87
+conference = 0
+interview = 0
+levels = 0
+copies = 0
+cindy = 0
+urgent = 0
+regular = 1
+payroll = 0
+shown = 0
+consumers = 0
+reliable = 0
+tr = 167
+indicating = 0
+coast = 1
+greif = 5
+severson = 5
+tri = 28
+vicodin = 4
+liquids = 0
+significant = 2
+intend = 0
+usd = 0
+pager = 0
+avails = 0
+spencer = 1
+ce = 235
+charset = 0
+verdana = 0
+fully = 4
+flynn = 0
+da = 163
+personnel = 0
+multi = 0
+closed = 0
+vice = 18
+administration = 0
+gmt = 0
+midstream = 0
+eye = 17
+speckels = 1
+studio = 0
+cilco = 0
+likely = 4
+managers = 0
+structure = 0
+sit = 60
+parent = 0
+preparation = 0
+mix = 0
+mmbtus = 0
+timing = 0
+happening = 0
+lottery = 0
+killing = 0
+acquire = 0
+mack = 0
+pcx = 0
+fares = 0
+internationa = 0
+notification = 3
+swift = 0
+identify = 0
+areas = 0
+separate = 1
+unless = 0
+producers = 0
+allows = 3
+pretty = 0
+waste = 0
+joanie = 0
+drop = 0
+taxes = 0
+premium = 0
+teams = 0
+choice = 1
+largest = 1
+addressed = 0
+dolphin = 0
+ngo = 0
+self = 1
+davis = 1
+htm = 0
+ad = 116
+graphics = 0
+hit = 0
+competitive = 2
+thus = 0
+incorrect = 1
+ti = 425
+acts = 18
+previous = 4
+edu = 25
+proven = 0
+electric = 1
+pictures = 0
+charlene = 0
+benedict = 0
+chevron = 0
+treatment = 0
+lesson = 0
+player = 0
+sds = 0
+wc = 0
+intraday = 0
+assurance = 0
+sdsnom = 0
+rebecca = 0
+quit = 4
+netco = 0
+intra = 0
+whatever = 1
+lyondell = 0
+reviewed = 0
+solicitation = 0
+filings = 0
+log = 20
+noon = 2
+locations = 0
+joe = 0
+completely = 0
+rivers = 0
+language = 0
+street = 0
+automatically = 0
+ft = 35
+powerful = 0
+specials = 0
+alone = 1
+fyi = 5
+properly = 0
+proper = 0
+explode = 0
+decrease = 2
+medication = 3
+desks = 0
+impacted = 0
+anywhere = 0
+completion = 0
+banking = 0
+consider = 0
+certificate = 0
+exercise = 1
+zeroed = 1
+websites = 0
+tonight = 0
+diligence = 0
+education = 0
+club = 0
+vegas = 1
+affordable = 0
+sports = 0
+predictions = 0
+billing = 0
+diamond = 3
+posted = 4
+prayer = 0
+actions = 2
+nomad = 0
+resuits = 0
+jason = 0
+purpose = 0
+deposit = 0
+entertainment = 0
+materially = 0
+blank = 0
+resolution = 0
+anderson = 0
+nat = 39
+rom = 38
+soma = 5
+organization = 1
+aquila = 0
+solid = 0
+affected = 0
+transco = 1
+spend = 0
+responsibilities = 0
+assume = 3
+header = 0
+accountant = 0
+functionality = 1
+meant = 0
+killed = 0
+analysts = 0
+rick = 2
+rolled = 0
+noted = 1
+discovered = 1
+offices = 0
+torch = 0
+often = 0
+york = 0
+joint = 0
+briley = 1
+competition = 0
+guide = 0
+intercompany = 0
+son = 36
+settlement = 5
+presently = 1
+cart = 4
+tim = 25
+entries = 1
+russ = 8
+valadez = 14
+rules = 6
+molly = 0
+apple = 1
+atleast = 0
+scheduler = 7
+pi = 125
+hector = 0
+dell = 1
+opm = 3
+hottlist = 0
+yap = 0
+gone = 1
+heal = 9
+llc = 0
+setting = 0
+reached = 0
+proposal = 0
+hundred = 1
+trust = 2
+official = 0
+table = 4
+mcgee = 0
+written = 0
+operation = 0
+cellspacing = 0
+laptop = 0
+feature = 0
+ram = 9
+victoria = 0
+larry = 0
+units = 3
+requests = 0
+continued = 0
+external = 0
+pack = 2
+couldn = 0
+lateral = 0
+strictly = 0
+resource = 7
+although = 0
+sr = 6
+commodity = 3
+pulled = 0
+protocol = 0
+bed = 1
+generated = 0
+redmond = 0
+girl = 0
+apparently = 0
+tool = 1
+reviews = 0
+released = 0
+movies = 1
+inside = 0
+shareholder = 0
+rr = 58
+compensation = 0
+beliefs = 0
+foresee = 0
+lease = 48
+rule = 12
+marta = 2
+chemical = 0
+hillary = 0
+hp = 12
+tongue = 0
+adonis = 0
+advises = 0
+master = 6
+eight = 6
+wasn = 0
+itself = 0
+documentation = 0
+xl = 1
+humble = 0
+elsa = 0
+pics = 0
+hughes = 0
+brokered = 0
+distribute = 3
+consultation = 2
+sheri = 0
+lists = 0
+cannon = 0
+treated = 0
+factor = 0
+putting = 1
+verified = 0
+releases = 0
+enhanced = 0
+controls = 0
+craig = 0
+worksheet = 7
+conversion = 0
+max = 0
+hrs = 0
+helpful = 0
+hand = 3
+producing = 0
+dl = 4
+developing = 0
+design = 1
+woman = 1
+understands = 0
+standards = 1
+promotion = 0
+sarco = 0
+hospital = 0
+ffffff = 0
+respective = 3
+richmond = 0
+conoco = 0
+driver = 0
+easily = 0
+sean = 0
+den = 15
+gateway = 0
+holdings = 1
+brad = 1
+college = 0
+gains = 0
+adult = 1
+dated = 9
+em = 110
+mcloughlin = 0
+anticipates = 0
+henderson = 2
+julia = 1
+negotiations = 0
+sofftwaares = 0
+garrick = 0
+comstock = 0
+trochta = 0
+imceanotes = 0
+ecom = 8
+larger = 0
+nommensen = 5
+coordinate = 0
+partnership = 1
+otcbb = 0
+announces = 0
+louis = 1
+dealer = 0
+reliance = 0
+season = 0
+agua = 0
+dulce = 0
+offshore = 0
+gathered = 1
+forever = 3
+function = 3
+happened = 0
+sample = 0
+easier = 0
+aim = 1
+pa = 204
+expensive = 1
+thinks = 0
+maximum = 0
+war = 36
+mining = 0
+drilling = 2
+owned = 0
+todd = 0
+advanced = 0
+provider = 0
+pending = 0
+providers = 0
+silver = 2
+cherry = 1
+hundreds = 0
+thoughts = 0
+addresses = 0
+beach = 0
+baby = 0
+requires = 0
+caused = 0
+variance = 0
+extension = 0
+carbide = 0
+anytime = 0
+adding = 1
+triple = 0
+dawn = 0
+martinez = 0
+entering = 2
+login = 1
+bretz = 0
+ls = 164
+writeoff = 0
+locker = 0
+wiil = 0
+block = 0
+blood = 0
+romeo = 0
+responsibility = 1
+brennan = 0
+btu = 22
+venture = 1
+connected = 0
+nascar = 0
+opinions = 0
+executed = 3
+cell = 2
+flag = 1
+doctors = 0
+invoiced = 1
+marlin = 0
+coffey = 0
+nice = 0
+amazing = 0
+ii = 2
+determined = 1
+handled = 0
+keeping = 0
+touch = 0
+upgrade = 0
+shipment = 0
+brought = 0
+forwarding = 1
+confidence = 0
+hesitate = 0
+seem = 2
+electronic = 0
+appreciated = 0
+deadline = 0
+franklin = 0
+heather = 0
+reasons = 3
+passed = 1
+safety = 0
+procedures = 4
+payback = 0
+networks = 0
+utility = 0
+count = 63
+africa = 0
+exact = 0
+creating = 1
+loading = 0
+processed = 0
+court = 1
+tier = 5
+sender = 0
+att = 14
+mailbox = 0
+glad = 0
+buddy = 0
+profiles = 0
+portion = 0
+protection = 0
+compressor = 1
+okay = 1
+oba = 32
+finding = 0
+heads = 0
+bar = 4
+turned = 0
+remote = 2
+illustrator = 0
+oem = 0
+noticed = 0
+mails = 1
+darron = 0
+nick = 1
+urbanek = 0
+jerry = 0
+barrett = 0
+ehronline = 0
+und = 13
+abdv = 0
+egm = 1
+couid = 0
+technoiogies = 0
+owns = 1
+improved = 0
+eat = 24
+moment = 1
+owners = 0
+develop = 3
+installed = 0
+videos = 0
+frank = 0
+hearing = 0
+inches = 0
+busy = 1
+ref = 9
+valuable = 0
+et = 255
+un = 176
+url = 2
+shawna = 0
+iso = 7
+capture = 4
+extremely = 0
+ya = 20
+causing = 0
+consent = 20
+anyway = 0
+round = 1
+discrepancies = 0
+cheapest = 0
+confidentiality = 0
+disclosure = 0
+prohibited = 0
+vol = 31
+correction = 5
+communicate = 0
+processes = 4
+spain = 0
+shareholders = 0
+supported = 0
+smoking = 2
+mine = 5
+biggest = 0
+erections = 0
+platform = 2
+miles = 0
+exciting = 1
+association = 0
+die = 11
+restricted = 4
+ma = 222
+income = 0
+goal = 0
+bane = 1
+collection = 0
+nathan = 0
+wind = 3
+piece = 0
+familiar = 0
+gore = 0
+experiencing = 0
+pico = 0
+mai = 17
+dewpoint = 0
+tessie = 0
+hair = 2
+bussell = 2
+diane = 5
+delivering = 0
+originally = 0
+accurate = 0
+began = 0
+seven = 0
+tracking = 0
+randall = 2
+gay = 5
+emerging = 0
+prescriptions = 0
+story = 1
+arial = 0
+florida = 0
+space = 0
+ownership = 0
+european = 0
+sutton = 3
+concerned = 0
+male = 0
+spent = 0
+agreements = 0
+industries = 4
+picture = 1
+filled = 0
+continues = 1
+death = 2
+choate = 0
+majeure = 1
+device = 0
+hence = 0
+ten = 16
+campaign = 0
+massive = 0
+eyes = 2
+requesting = 0
+lives = 0
+reminder = 0
+eliminate = 1
+copied = 0
+consemiu = 8
+died = 2
+sound = 0
+offered = 0
+expressed = 0
+anti = 7
+duplicate = 0
+steps = 0
+books = 1
+improve = 2
+implementation = 0
+gives = 3
+ac = 203
+peggy = 5
+proprietary = 0
+ways = 4
+advertisement = 1
+published = 0
+earnings = 0
+mortgage = 1
+consumer = 0
+ct = 763
+tape = 1
+fl = 34
+cia = 38
+organizational = 1
+agenda = 0
+rental = 0
+carriere = 0
+moshou = 0
+church = 0
+trouble = 1
+medium = 0
+aggressive = 0
+smart = 0
+zajac = 0
+ail = 23
+participants = 0
+gap = 0
+earthlink = 0
+wire = 1
+trades = 0
+messaging = 0
+ut = 127
+wil = 91
+richardson = 0
+blvd = 0
+glo = 33
+seneca = 0
+pubiisher = 0
+imited = 1
+isc = 11
+contacts = 0
+sleep = 0
+kyle = 6
+cooperation = 0
+possibly = 0
+leaving = 0
+motor = 0
+hopefully = 3
+tie = 31
+speak = 3
+mi = 113
+suggested = 0
+canadian = 2
+uses = 3
+connect = 3
+pvr = 1
+rich = 5
+places = 0
+auction = 0
+po = 81
+spacer = 0
+client = 0
+recommended = 0
+royalty = 0
+amended = 0
+default = 1
+living = 2
+regardless = 0
+human = 0
+bringing = 0
+focused = 0
+stores = 0
+variety = 0
+netherlands = 0
+leaders = 1
+bowen = 0
+salary = 0
+signed = 0
+penny = 0
+loan = 0
+desktop = 0
+chase = 9
+pleasure = 0
+compare = 0
+session = 0
+overall = 0
+stranger = 2
+length = 0
+planned = 0
+sp = 49
+darrel = 1
+raise = 1
+palestinian = 0
+expiration = 0
+serial = 0
+premiere = 0
+suzanne = 0
+reduced = 0
+players = 0
+applicable = 0
+impotence = 0
+buckley = 0
+wayne = 0
+hansen = 0
+indicative = 0
+sabrae = 0
+dating = 0
+winners = 0
+marshall = 0
+highest = 0
+ea = 292
+presentation = 0
+allowed = 0
+square = 0
+danny = 0
+gepl = 0
+hydrocarbon = 0
+alpine = 3
+christmas = 0
+muscle = 2
+souza = 0
+relating = 0
+begins = 0
+ecf = 0
+forth = 1
+answers = 0
+audit = 0
+approve = 0
+lunch = 0
+types = 1
+starts = 1
+difficult = 0
+le = 322
+lasts = 0
+series = 0
+till = 12
+edge = 5
+growing = 0
+covered = 1
+shipper = 0
+sometime = 0
+republic = 0
+filter = 1
+sooner = 0
+increasing = 2
+nelson = 0
+percentage = 0
+returned = 0
+pop = 3
+interface = 0
+kin = 28
+experienced = 0
+prime = 0
+merger = 0
+obtain = 2
+ryan = 17
+servers = 0
+attachments = 0
+achieve = 1
+effects = 0
+gov = 1
+examples = 0
+procedure = 4
+explore = 1
+caribbean = 0
+rally = 0
+amounts = 0
+comfort = 0
+attempt = 0
+greatly = 0
+amelia = 0
+engel = 11
+delay = 0
+fare = 0
+der = 26
+cove = 4
+filing = 0
+fletcher = 0
+leth = 0
+undervalued = 0
+cents = 0
+esther = 0
+hlavaty = 0
+reid = 0
+lls = 90
+troy = 0
+palmer = 11
+metals = 1
+las = 9
+carter = 0
+luis = 0
+migration = 0
+brief = 0
+hess = 1
+therein = 0
+ur = 158
+pond = 2
+joanne = 0
+community = 0
+tglo = 0
+eogi = 0
+ml = 2
+wysak = 0
+felipe = 0
+errors = 1
+affect = 1
+convenient = 0
+minimal = 0
+boost = 0
+incremental = 0
+decide = 4
+reserve = 3
+superior = 3
+kerr = 0
+willing = 0
+quite = 0
+wild = 0
+unlimited = 1
+sans = 1
+mother = 3
+computers = 1
+unfortunately = 0
+ordered = 0
+satisfaction = 0
+priority = 0
+traded = 0
+testing = 0
+portal = 0
+ward = 17
+lets = 0
+aren = 11
+knows = 0
+refer = 2
+shot = 0
+fda = 0
+tue = 5
+saying = 0
+cancel = 0
+forecast = 1
+cousino = 0
+bass = 3
+permanent = 0
+phones = 0
+technical = 0
+whose = 0
+objective = 1
+cards = 0
+distributed = 0
+learning = 0
+fire = 1
+drill = 2
+towards = 0
+forget = 5
+explosion = 0
+gloria = 0
+formula = 0
+redelivery = 0
+audio = 1
+visual = 0
+encoding = 0
+approach = 0
+doubt = 0
+staffing = 1
+excite = 0
+corel = 0
+tm = 7
+enronavailso = 0
+contacting = 0
+alland = 0
+heavy = 0
+economic = 0
+nigeria = 2
+milwaukee = 0
+phillip = 0
+curve = 0
+returns = 0
+padre = 0
+kathy = 0
+buttons = 0
+sir = 4
+vary = 0
+sounds = 0
+disclose = 1
+authority = 0
+flw = 0
+straight = 0
+worldnet = 0
+beemer = 1
+ooo = 0
+defs = 0
+thorough = 0
+officers = 0
+flight = 0
+prefer = 0
+awesome = 0
+macintosh = 0
+feet = 1
+constitutes = 0
+formosa = 0
+porn = 0
+armstrong = 0
+driscoll = 0
+watches = 0
+newsietter = 0
+twenty = 0
+tommy = 0
+fields = 0
+method = 0
+setup = 0
+allocating = 0
+initially = 0
+missed = 1
+clarification = 1
+especially = 4
+dorcheus = 0
+del = 23
+millions = 0
+insurance = 0
+pooling = 0
+trial = 1
+tennessee = 0
+ellis = 8
+direction = 0
+bold = 0
+catch = 1
+performing = 0
+accepted = 0
+matters = 1
+batch = 0
+continuing = 1
+winning = 0
+symbol = 1
+offsystem = 0
+decisions = 0
+produced = 0
+ended = 1
+greatest = 0
+degree = 0
+solmonson = 0
+imbalances = 0
+fall = 1
+fear = 0
+hate = 3
+fight = 0
+reallocated = 0
+debt = 0
+reform = 0
+australia = 0
+plain = 1
+prompt = 0
+remains = 1
+ifhsc = 0
+enhancements = 0
+connevey = 4
+jay = 2
+valued = 0
+lay = 5
+infrastructure = 0
+military = 0
+allowing = 0
+ff = 35
+dry = 1

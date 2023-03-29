@@ -32,7 +32,7 @@ public class lecturaCSV {
 		try {
 			FileWriter wr=new FileWriter("C:/Users/adalc/Downloads/eclipse/Parcial1/src/Examen3/Sumas.txt");	
 		for(int i =0;i<suma.length;i++) {
-			wr.write((palabras[i+1])+" ,");
+			wr.write((palabras[i+1])+" = ");
 			wr.write(Integer.toString(suma[i])+"\n");
 			}
 		System.out.println("Se guardo la suma");
